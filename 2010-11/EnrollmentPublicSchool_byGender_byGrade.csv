@@ -1,0 +1,674 @@
+AUN,LEA Name,LEA Type,County,School Number,School Name,Student Gender Code,PKA,PKP,PKF,K4A,K4P,K4F,K5A,K5P,K5F,001,002,003,004,005,006,EUG,007,008,009,010,011,012,SUG,Total
+168518013,ARISE Academy Charter High School,CS,Philadelphia,8122,ARISE Academy Charter High School,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,118
+168518013,ARISE Academy Charter High School,CS,Philadelphia,8122,ARISE Academy Charter High School,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,96
+126510015,Ad Prima CS,CS,Philadelphia,7825,Ad Prima CS,F,0,0,0,0,0,0,0,0,54,40,31,21,18,16,7,0,9,12,0,0,0,0,0,208
+126510015,Ad Prima CS,CS,Philadelphia,7825,Ad Prima CS,M,0,0,0,0,0,0,0,0,33,23,9,10,24,6,7,0,2,7,0,0,0,0,0,121
+126512990,Alliance for Progress CS,CS,Philadelphia,7543,Alliance for Progress CS,F,0,0,0,0,0,0,0,0,28,23,27,21,27,26,6,0,0,0,0,0,0,0,0,158
+126512990,Alliance for Progress CS,CS,Philadelphia,7543,Alliance for Progress CS,M,0,0,0,0,0,0,0,0,22,28,28,25,21,26,20,0,0,0,0,0,0,0,0,170
+104510394,Antonia Pantoja Community Charter School,CS,Philadelphia,8031,Antonia Pantoja Community Charter School,F,0,0,0,0,0,0,0,0,41,46,78,37,37,27,33,0,27,34,0,0,0,0,0,360
+104510394,Antonia Pantoja Community Charter School,CS,Philadelphia,8031,Antonia Pantoja Community Charter School,M,0,0,0,0,0,0,0,0,51,52,59,36,51,32,26,0,32,36,0,0,0,0,0,375
+126513070,Belmont Academy Charter School,CS,Philadelphia,7557,Belmont Academy Charter School,F,0,0,7,0,0,0,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42
+126513070,Belmont Academy Charter School,CS,Philadelphia,7557,Belmont Academy Charter School,M,0,0,12,0,0,0,0,0,52,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64
+126510010,Belmont Charter School,CS,Philadelphia,7750,Belmont Charter School,F,0,0,0,0,0,0,0,0,0,45,31,40,28,20,26,0,29,19,0,0,0,0,0,238
+126510010,Belmont Charter School,CS,Philadelphia,7750,Belmont Charter School,M,0,0,0,0,0,0,0,0,0,34,37,29,38,17,23,0,16,13,0,0,0,0,0,207
+185515523,Boys Latin of Philadelphia CS,CS,Philadelphia,7981,Boys Latin of Philadelphia CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170,120,87,86,0,463
+126513190,Charter High School for Architecture and,CS,Philadelphia,7578,Charter High School for Architecture and,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,71,82,73,0,308
+126513190,Charter High School for Architecture and,CS,Philadelphia,7578,Charter High School for Architecture and,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,80,71,71,0,298
+126513160,Christopher Columbus CS,CS,Philadelphia,7575,Christopher Columbus CS,F,0,0,0,0,0,0,0,0,40,43,42,47,50,44,49,0,39,37,0,0,0,0,0,391
+126513160,Christopher Columbus CS,CS,Philadelphia,7575,Christopher Columbus CS,M,0,0,0,0,0,0,0,0,47,41,45,38,39,39,40,0,43,46,0,0,0,0,0,378
+126512840,Community Academy of Philadelphia CS,CS,Philadelphia,7510,Community Academy of Philadelphia CS,F,0,0,0,0,0,0,0,0,63,1,26,35,37,28,32,0,50,49,68,91,88,81,0,649
+126512840,Community Academy of Philadelphia CS,CS,Philadelphia,7510,Community Academy of Philadelphia CS,M,0,0,0,0,0,0,0,0,55,1,35,29,27,37,32,0,48,47,75,67,61,50,0,564
+126513470,Delaware Valley CHS,CS,Philadelphia,7671,Delaware Valley CHS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,87,110,97,0,351
+126513470,Delaware Valley CHS,CS,Philadelphia,7671,Delaware Valley CHS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,65,77,74,0,282
+126510011,Discovery Charter School,CS,Philadelphia,7775,Discovery Charter School,F,0,0,0,0,0,0,0,0,27,32,41,37,40,39,32,0,35,31,0,0,0,0,0,314
+126510011,Discovery Charter School,CS,Philadelphia,7775,Discovery Charter School,M,0,0,0,0,0,0,0,0,32,40,35,36,40,24,28,0,36,27,0,0,0,0,0,298
+177518712,Eastern University Academy Charter Schoo,CS,Philadelphia,8127,Eastern University Academy Charter Schoo,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,27,38,28,0,0,0,131
+177518712,Eastern University Academy Charter Schoo,CS,Philadelphia,8127,Eastern University Academy Charter Schoo,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,27,22,29,0,0,0,106
+126513440,Esperanza Academy Charter High School,CS,Philadelphia,7665,Esperanza Academy Charter High School,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,107,107,98,108,0,420
+126513440,Esperanza Academy Charter High School,CS,Philadelphia,7665,Esperanza Academy Charter High School,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,68,60,78,0,307
+126513100,Eugenio Maria De Hostos CS,CS,Philadelphia,7564,Eugenio Maria DE Hostos CS,F,0,0,0,0,0,0,0,0,42,25,21,16,28,23,13,0,22,0,0,0,0,0,0,190
+126513100,Eugenio Maria De Hostos CS,CS,Philadelphia,7564,Eugenio Maria DE Hostos CS,M,0,0,0,0,0,0,0,0,41,15,19,23,14,21,11,0,16,0,0,0,0,0,0,160
+100510000,First Phila CS For Literacy,CS,Philadelphia,7744,First Phila CS For Literacy,F,0,0,0,0,0,0,0,0,42,36,37,44,53,52,56,0,47,52,0,0,0,0,0,419
+100510000,First Phila CS For Literacy,CS,Philadelphia,7744,First Phila CS For Literacy,M,0,0,0,0,0,0,0,0,39,39,40,28,22,42,36,0,37,33,0,0,0,0,0,316
+126510021,Folk Arts-Cultural Treasures CS,CS,Philadelphia,7857,Folk Arts-Cultural Treasures CS,F,0,0,0,0,0,0,0,0,26,33,27,25,34,20,21,0,25,23,0,0,0,0,0,234
+126510021,Folk Arts-Cultural Treasures CS,CS,Philadelphia,7857,Folk Arts-Cultural Treasures CS,M,0,0,0,0,0,0,0,0,24,18,23,25,17,30,29,0,26,27,0,0,0,0,0,219
+126513450,Franklin Towne CHS,CS,Philadelphia,7666,Franklin Towne CHS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,127,144,146,130,0,547
+126513450,Franklin Towne CHS,CS,Philadelphia,7666,Franklin Towne CHS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,109,102,87,121,0,419
+147513703,Franklin Towne Charter Elementary School,CS,Philadelphia,8123,Franklin Towne Charter Elementary School,F,0,0,0,0,0,0,0,0,0,0,0,44,54,41,39,0,0,0,0,0,0,0,0,178
+147513703,Franklin Towne Charter Elementary School,CS,Philadelphia,8123,Franklin Towne Charter Elementary School,M,0,0,0,0,0,0,0,0,0,0,0,37,46,40,42,0,0,0,0,0,0,0,0,165
+126513270,Freire CS,CS,Philadelphia,7586,Freire CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,130,98,49,42,0,319
+126513270,Freire CS,CS,Philadelphia,7586,Freire CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,79,59,33,14,0,185
+126513380,Global Leadership Academy CS,CS,Philadelphia,7639,Global Leadership Academy CS,F,0,0,0,0,0,0,0,0,23,54,36,41,43,41,39,0,26,33,0,0,0,0,0,336
+126513380,Global Leadership Academy CS,CS,Philadelphia,7639,Global Leadership Academy CS,M,0,0,0,0,0,0,0,0,27,26,36,36,38,30,16,0,24,23,0,0,0,0,0,256
+126510005,Green Woods CS,CS,Philadelphia,7748,Green Woods CS,F,0,0,0,0,0,0,0,0,9,13,13,9,13,11,13,0,8,11,0,0,0,0,0,100
+126510005,Green Woods CS,CS,Philadelphia,7748,Green Woods CS,M,0,0,0,0,0,0,0,0,15,13,12,16,12,14,12,0,15,7,0,0,0,0,0,116
+126513290,Hardy Williams Academy CS,CS,Philadelphia,7588,Hardy Williams Academy CS,F,0,0,0,0,0,0,0,0,45,48,78,52,58,39,43,0,44,23,0,0,0,0,0,430
+126513290,Hardy Williams Academy CS,CS,Philadelphia,7588,Hardy Williams Academy CS,M,0,0,0,0,0,0,0,0,58,53,71,46,49,33,34,0,33,21,0,0,0,0,0,398
+126510003,Hope CS,CS,Philadelphia,7723,Hope CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,51,57,55,0,202
+126510003,Hope CS,CS,Philadelphia,7723,Hope CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,55,54,42,0,199
+126513200,Imani Education Circle CS,CS,Philadelphia,7579,Imani Educationl Circle CS,F,0,0,0,0,0,0,0,0,20,23,37,23,35,30,24,0,34,13,0,0,0,0,0,239
+126513200,Imani Education Circle CS,CS,Philadelphia,7579,Imani Educationl Circle CS,M,0,0,0,0,0,0,0,0,27,23,16,20,35,33,21,0,24,13,0,0,0,0,0,212
+126512980,Imhotep Institute CHS,CS,Philadelphia,7542,Imhotep Institute CHS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,63,70,49,0,253
+126512980,Imhotep Institute CHS,CS,Philadelphia,7542,Imhotep Institute CHS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,105,73,54,53,0,285
+126513510,Independence CS,CS,Philadelphia,7683,Independence CS,F,0,0,0,0,0,0,0,0,40,49,46,45,45,43,53,0,38,41,0,0,0,0,0,400
+126513510,Independence CS,CS,Philadelphia,7683,Independence CS,M,0,0,0,0,0,0,0,0,48,46,51,46,52,44,34,0,27,27,0,0,0,0,0,375
+133513315,John B Stetson Charter School,CS,Philadelphia,8149,John B. Stetson Charter School,F,0,0,0,0,0,0,0,0,0,0,0,0,0,69,67,0,78,85,0,0,0,0,0,299
+133513315,John B Stetson Charter School,CS,Philadelphia,8149,John B. Stetson Charter School,M,0,0,0,0,0,0,0,0,0,0,0,0,0,79,83,0,88,96,0,0,0,0,0,346
+126510013,KIPP Philadelphia Charter School,CS,Philadelphia,7776,KIPP Philadelphia Charter School,F,0,0,0,0,0,0,0,0,37,0,0,0,0,46,45,0,35,36,60,0,0,0,0,259
+126510013,KIPP Philadelphia Charter School,CS,Philadelphia,7776,KIPP Philadelphia Charter School,M,0,0,0,0,0,0,0,0,38,0,0,0,0,49,45,1,43,40,46,0,0,0,0,262
+172510793,KIPP West Philadelphia Preparatory Chart,CS,Philadelphia,8124,KIPP West Philadelphia Preparatory Chart,F,0,0,0,0,0,0,0,0,0,0,0,0,0,41,40,0,0,0,0,0,0,0,0,81
+172510793,KIPP West Philadelphia Preparatory Chart,CS,Philadelphia,8124,KIPP West Philadelphia Preparatory Chart,M,0,0,0,0,0,0,0,0,0,0,0,0,0,52,51,0,0,0,0,0,0,0,0,103
+126510017,Khepera CS,CS,Philadelphia,7826,Khepera CS,F,0,0,0,0,0,0,0,0,16,29,24,22,28,31,32,0,23,13,0,0,0,0,0,218
+126510017,Khepera CS,CS,Philadelphia,7826,Khepera CS,M,0,0,0,0,0,0,0,0,28,23,28,31,25,22,18,0,20,12,0,0,0,0,0,207
+126513110,Laboratory CS,CS,Philadelphia,7565,Laboratory CS,F,0,0,0,0,0,0,0,0,23,23,26,34,27,25,21,0,24,24,0,0,0,0,0,227
+126513110,Laboratory CS,CS,Philadelphia,7565,Laboratory CS,M,0,0,0,0,0,0,0,0,20,25,15,27,14,23,17,0,14,13,0,0,0,0,0,168
+126513150,MAST Community Charter School,CS,Philadelphia,7574,MAST Community Charter School,F,0,0,0,0,0,0,0,0,40,38,43,43,38,54,58,0,51,55,49,47,66,54,0,636
+126513150,MAST Community Charter School,CS,Philadelphia,7574,MAST Community Charter School,M,0,0,0,0,0,0,0,0,39,40,36,35,42,54,50,0,57,58,55,61,37,44,0,608
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,7672,Mariana Bracetti Academy CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,84,0,103,95,103,79,59,56,0,579
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,7672,Mariana Bracetti Academy CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,80,96,105,72,54,37,0,526
+126510014,Maritime Academy Charter School,CS,Philadelphia,7777,Maritime Academy CS,F,0,0,0,0,0,0,0,0,0,0,0,0,10,30,64,0,67,81,45,37,34,26,0,394
+126510014,Maritime Academy Charter School,CS,Philadelphia,7777,Maritime Academy CS,M,0,0,0,0,0,0,0,0,0,0,0,0,11,20,42,0,65,73,48,36,44,29,0,368
+151514721,Mastery CS-Pickett Campus,CS,Philadelphia,7961,Mastery CS-Pickett Campus,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,74,60,56,39,0,0,278
+151514721,Mastery CS-Pickett Campus,CS,Philadelphia,7961,Mastery CS-Pickett Campus,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,65,67,54,41,0,0,296
+126510022,Mastery CS-Shoemaker Campus,CS,Philadelphia,7909,Mastery CS -Shoemaker Campus,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,58,63,68,69,54,0,371
+126510022,Mastery CS-Shoemaker Campus,CS,Philadelphia,7909,Mastery CS -Shoemaker Campus,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,43,59,61,41,38,0,305
+126510023,Mastery CS-Thomas Campus,CS,Philadelphia,7910,Mastery CS - Thomas Campus,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,61,35,45,56,44,0,300
+126510023,Mastery CS-Thomas Campus,CS,Philadelphia,7910,Mastery CS - Thomas Campus,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,50,59,53,46,49,0,309
+126510002,Mastery Charter High School,CS,Philadelphia,7678,Mastery Charter High School,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,39,43,50,42,59,0,288
+126510002,Mastery Charter High School,CS,Philadelphia,7678,Mastery Charter High School,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,46,48,40,30,33,34,0,231
+126516457,Mastery Charter School Harrity Campus,CS,Philadelphia,8153,Mastery Charter School Harrity Campus,F,0,0,0,0,0,0,0,0,51,40,56,28,50,34,43,0,38,16,0,0,0,0,0,356
+126516457,Mastery Charter School Harrity Campus,CS,Philadelphia,8153,Mastery Charter School Harrity Campus,M,0,0,0,0,0,0,0,0,56,60,43,52,59,46,41,0,39,49,0,0,0,0,0,445
+126519433,Mastery Charter School Mann Campus,CS,Philadelphia,8152,Mastery Charter School Mann Campus,F,0,0,0,0,0,0,0,0,36,28,38,32,33,24,0,0,0,0,0,0,0,0,0,191
+126519433,Mastery Charter School Mann Campus,CS,Philadelphia,8152,Mastery Charter School Mann Campus,M,0,0,0,0,0,0,0,0,42,45,33,40,34,41,0,0,0,0,0,0,0,0,0,235
+126517286,Mastery Charter School Smedley Campus,CS,Philadelphia,8151,Mastery Charter School Smedley Campus,F,0,0,0,0,0,0,0,0,55,44,51,35,45,40,0,0,0,0,0,0,0,0,0,270
+126517286,Mastery Charter School Smedley Campus,CS,Philadelphia,8151,Mastery Charter School Smedley Campus,M,0,0,0,0,0,0,0,0,49,58,54,55,54,48,0,0,0,0,0,0,0,0,0,318
+126513230,Math Civics and Sciences CS,CS,Philadelphia,7582,Math Civics and Sciences CS,F,0,0,0,0,0,0,0,0,0,43,50,50,42,40,48,0,47,39,43,35,28,40,0,505
+126513230,Math Civics and Sciences CS,CS,Philadelphia,7582,Math Civics and Sciences CS,M,0,0,0,0,0,0,0,0,0,34,33,31,35,37,31,0,33,41,34,33,31,38,0,411
+126513000,Multi-Cultural Academy CS,CS,Philadelphia,7546,Multi-Cultural Academy CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,42,25,23,0,137
+126513000,Multi-Cultural Academy CS,CS,Philadelphia,7546,Multi-Cultural Academy CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,22,12,15,0,80
+126513420,New Foundations CS,CS,Philadelphia,7649,New Foundations CS,F,0,0,0,0,0,0,0,0,27,45,40,41,33,42,28,0,26,26,43,0,0,0,0,351
+126513420,New Foundations CS,CS,Philadelphia,7649,New Foundations CS,M,0,0,0,0,0,0,0,0,37,30,35,32,41,30,23,0,27,24,53,0,0,0,0,332
+126510018,New Media Technology CS,CS,Philadelphia,7829,New Media Technology CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,3,9,0,21,23,38,40,46,42,0,222
+126510018,New Media Technology CS,CS,Philadelphia,7829,New Media Technology CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,3,13,0,19,14,50,37,44,48,0,228
+126510019,Northwood Academy CS,CS,Philadelphia,7856,Northwood Academy CS,F,0,0,0,0,0,0,0,0,44,41,49,49,46,43,50,0,29,43,0,0,0,0,0,394
+126510019,Northwood Academy CS,CS,Philadelphia,7856,Northwood Academy CS,M,0,0,0,0,0,0,0,0,41,46,40,37,41,46,41,0,43,24,0,0,0,0,0,359
+173515368,Pan American Academy CS,CS,Philadelphia,7985,Pan American Academy CS,F,0,0,0,0,0,0,0,0,68,4,42,26,29,28,25,0,0,0,0,0,0,0,0,222
+173515368,Pan American Academy CS,CS,Philadelphia,7985,Pan American Academy CS,M,0,0,0,0,0,0,0,0,58,4,34,28,22,22,23,0,0,0,0,0,0,0,0,191
+126510004,People for People CS,CS,Philadelphia,7685,People for People CS,F,0,0,0,0,0,0,0,0,34,31,29,36,35,34,34,0,35,31,0,0,0,0,0,299
+126510004,People for People CS,CS,Philadelphia,7685,People for People CS,M,0,0,0,0,0,0,0,0,23,24,32,26,22,31,24,0,26,22,0,0,0,0,0,230
+126513280,Philadelphia Academy CS,CS,Philadelphia,7587,Philadelphia Academy CS,F,0,0,0,0,0,0,0,0,31,46,33,34,33,33,42,0,33,40,55,57,61,53,1,552
+126513280,Philadelphia Academy CS,CS,Philadelphia,7587,Philadelphia Academy CS,M,0,0,0,0,0,0,0,0,35,23,35,37,46,44,51,0,54,55,65,64,59,66,3,637
+126515001,Philadelphia City SD,SD,Philadelphia,7904,Academy at Palumbo,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,122,75,73,55,0,325
+126515001,Philadelphia City SD,SD,Philadelphia,7904,Academy at Palumbo,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,60,49,61,0,242
+126515001,Philadelphia City SD,SD,Philadelphia,7256,Adaire Alexander Sch,F,0,0,0,0,0,0,0,0,22,17,33,32,21,18,26,0,18,26,0,0,0,0,0,213
+126515001,Philadelphia City SD,SD,Philadelphia,7256,Adaire Alexander Sch,M,0,0,0,0,0,0,0,0,26,27,24,20,22,18,30,0,24,23,0,0,0,0,0,214
+126515001,Philadelphia City SD,SD,Philadelphia,3617,Alcorn James Sch,F,0,0,0,0,0,0,0,0,38,37,30,31,28,24,38,0,32,30,0,0,0,0,0,288
+126515001,Philadelphia City SD,SD,Philadelphia,3617,Alcorn James Sch,M,0,0,0,0,0,0,0,0,29,30,34,41,37,30,27,0,24,23,0,0,0,0,0,275
+126515001,Philadelphia City SD,SD,Philadelphia,5292,Allen Dr Ethel Sch,F,0,0,10,0,0,0,0,0,26,31,31,33,33,21,24,0,0,0,0,0,0,0,0,209
+126515001,Philadelphia City SD,SD,Philadelphia,5292,Allen Dr Ethel Sch,M,0,0,9,0,0,0,0,0,28,26,37,31,33,24,16,0,0,0,0,0,0,0,0,204
+126515001,Philadelphia City SD,SD,Philadelphia,3758,Allen Ethan Sch,F,0,0,0,0,0,0,0,0,49,58,52,49,38,53,47,0,57,50,0,0,0,0,0,453
+126515001,Philadelphia City SD,SD,Philadelphia,3758,Allen Ethan Sch,M,0,0,0,0,0,0,0,0,51,54,51,57,46,52,49,0,45,62,0,0,0,0,0,467
+126515001,Philadelphia City SD,SD,Philadelphia,6823,Amy At Martin,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,0,80,91,0,0,0,0,0,214
+126515001,Philadelphia City SD,SD,Philadelphia,6823,Amy At Martin,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,67,78,0,0,0,0,0,182
+126515001,Philadelphia City SD,SD,Philadelphia,7024,Amy NW,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,52,73,0,0,0,0,0,147
+126515001,Philadelphia City SD,SD,Philadelphia,7024,Amy NW,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,32,42,0,0,0,0,0,97
+126515001,Philadelphia City SD,SD,Philadelphia,3804,Anderson Add B Sch,F,0,0,9,0,0,0,0,0,31,32,23,30,24,23,22,0,21,23,0,0,0,0,0,238
+126515001,Philadelphia City SD,SD,Philadelphia,3804,Anderson Add B Sch,M,0,0,11,0,0,0,0,0,28,29,35,39,35,26,31,0,27,35,0,0,0,0,0,296
+126515001,Philadelphia City SD,SD,Philadelphia,3805,Arthur Chester A Sch,F,0,0,0,0,0,0,0,0,13,18,9,17,11,11,7,0,8,10,0,0,0,0,0,104
+126515001,Philadelphia City SD,SD,Philadelphia,3805,Arthur Chester A Sch,M,0,0,0,0,0,0,0,0,8,12,16,14,10,6,16,0,6,8,0,0,0,0,0,96
+126515001,Philadelphia City SD,SD,Philadelphia,8039,Arts Academy at Benjamin Rush,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,93,81,0,0,269
+126515001,Philadelphia City SD,SD,Philadelphia,8039,Arts Academy at Benjamin Rush,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,45,36,0,0,117
+126515001,Philadelphia City SD,SD,Philadelphia,8040,Audenried SHS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,89,83,0,0,227
+126515001,Philadelphia City SD,SD,Philadelphia,8040,Audenried SHS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,99,55,0,0,201
+126515001,Philadelphia City SD,SD,Philadelphia,3618,Bache-Martin Sch,F,0,0,30,0,0,0,0,0,21,21,18,23,24,15,22,0,24,24,0,0,0,0,0,222
+126515001,Philadelphia City SD,SD,Philadelphia,3618,Bache-Martin Sch,M,0,0,21,0,0,0,0,0,13,22,24,19,19,15,25,0,21,18,0,0,0,0,0,197
+126515001,Philadelphia City SD,SD,Philadelphia,6824,Baldi C C A MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,186,0,186,233,0,0,0,0,0,605
+126515001,Philadelphia City SD,SD,Philadelphia,6824,Baldi C C A MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,240,0,226,213,0,0,0,0,0,679
+126515001,Philadelphia City SD,SD,Philadelphia,7237,Barratt Norris S MS,F,0,0,15,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,0,0,0,0,0,52
+126515001,Philadelphia City SD,SD,Philadelphia,7237,Barratt Norris S MS,M,0,0,11,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,0,0,0,0,59
+126515001,Philadelphia City SD,SD,Philadelphia,8029,Barry Comm John Sch,F,0,0,22,0,0,0,0,0,53,50,52,39,59,43,41,0,32,27,0,0,0,0,0,418
+126515001,Philadelphia City SD,SD,Philadelphia,8029,Barry Comm John Sch,M,0,0,18,0,0,0,0,0,34,45,38,44,40,34,40,0,47,40,0,0,0,0,0,380
+126515001,Philadelphia City SD,SD,Philadelphia,3732,Barton Clara Sch,F,0,0,17,0,0,0,0,0,130,107,102,0,0,0,0,0,0,0,0,0,0,0,0,356
+126515001,Philadelphia City SD,SD,Philadelphia,3732,Barton Clara Sch,M,0,0,22,0,0,0,0,0,129,127,130,0,0,0,0,0,0,0,0,0,0,0,0,408
+126515001,Philadelphia City SD,SD,Philadelphia,3847,Bartram John - Main,F,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,147,134,147,0,539
+126515001,Philadelphia City SD,SD,Philadelphia,3847,Bartram John - Main,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,161,158,144,119,0,582
+126515001,Philadelphia City SD,SD,Philadelphia,7238,Beeber Dimner MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,82,89,0,0,0,0,0,206
+126515001,Philadelphia City SD,SD,Philadelphia,7238,Beeber Dimner MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,124,111,0,0,0,0,0,276
+126515001,Philadelphia City SD,SD,Philadelphia,5183,Bethune Mary McLeod Sch,F,0,0,22,0,0,0,0,0,36,35,44,41,33,31,31,0,30,33,0,0,0,0,0,336
+126515001,Philadelphia City SD,SD,Philadelphia,5183,Bethune Mary McLeod Sch,M,0,0,15,0,0,0,0,0,49,40,42,30,31,41,42,0,32,29,0,0,0,0,0,351
+126515001,Philadelphia City SD,SD,Philadelphia,3733,Birney Gen Davis B Sch,F,0,0,8,0,0,0,0,0,29,33,41,37,32,34,24,0,31,25,0,0,0,0,0,294
+126515001,Philadelphia City SD,SD,Philadelphia,3733,Birney Gen Davis B Sch,M,0,0,5,0,0,0,0,0,41,43,29,40,20,42,37,0,29,20,0,0,0,0,0,306
+126515001,Philadelphia City SD,SD,Philadelphia,3662,Blaine James G Sch,F,0,0,23,0,0,0,0,0,17,15,14,13,15,10,11,0,11,18,0,0,0,0,0,147
+126515001,Philadelphia City SD,SD,Philadelphia,3662,Blaine James G Sch,M,0,0,19,0,0,0,0,0,19,21,11,11,29,14,10,0,15,10,0,0,0,0,0,159
+126515001,Philadelphia City SD,SD,Philadelphia,3663,Blankenburg Rudolph Sch,F,0,0,22,0,0,0,0,0,19,24,23,23,19,21,16,0,13,11,0,0,0,0,0,191
+126515001,Philadelphia City SD,SD,Philadelphia,3663,Blankenburg Rudolph Sch,M,0,0,17,0,0,0,0,0,26,23,20,19,24,13,24,0,26,18,0,0,0,0,0,210
+126515001,Philadelphia City SD,SD,Philadelphia,7070,Bodine William W HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,74,91,81,0,338
+126515001,Philadelphia City SD,SD,Philadelphia,7070,Bodine William W HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,47,55,48,0,208
+126515001,Philadelphia City SD,SD,Philadelphia,3840,Bok Edw W Technical High School,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,169,88,89,92,0,438
+126515001,Philadelphia City SD,SD,Philadelphia,3840,Bok Edw W Technical High School,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,205,128,132,99,0,564
+126515001,Philadelphia City SD,SD,Philadelphia,3620,Bregy F Amedee Sch,F,0,0,23,0,0,0,0,0,18,18,15,19,23,16,23,0,19,23,0,0,0,0,0,197
+126515001,Philadelphia City SD,SD,Philadelphia,3620,Bregy F Amedee Sch,M,0,0,15,0,0,0,0,0,26,22,20,23,23,24,27,0,32,24,0,0,0,0,0,236
+126515001,Philadelphia City SD,SD,Philadelphia,3745,Bridesburg Sch,F,0,0,0,0,0,0,0,0,30,49,35,29,35,28,0,0,0,0,0,0,0,0,0,206
+126515001,Philadelphia City SD,SD,Philadelphia,3745,Bridesburg Sch,M,0,0,0,0,0,0,0,0,38,44,46,41,38,34,0,0,0,0,0,0,0,0,0,241
+126515001,Philadelphia City SD,SD,Philadelphia,3684,Brown Henry A Sch,F,0,0,16,0,0,0,0,0,24,32,36,24,38,25,22,0,24,0,0,0,0,0,0,241
+126515001,Philadelphia City SD,SD,Philadelphia,3684,Brown Henry A Sch,M,0,0,23,0,0,0,0,0,40,41,30,22,34,38,27,0,17,0,0,0,0,0,0,272
+126515001,Philadelphia City SD,SD,Philadelphia,6529,Brown Joseph H Sch,F,0,0,0,0,0,0,0,0,36,49,32,35,35,32,34,0,0,0,0,0,0,0,0,253
+126515001,Philadelphia City SD,SD,Philadelphia,6529,Brown Joseph H Sch,M,0,0,0,0,0,0,0,0,52,43,38,38,30,43,33,0,0,0,0,0,0,0,0,277
+126515001,Philadelphia City SD,SD,Philadelphia,3601,Bryant William C Sch,F,0,0,27,0,0,0,0,0,19,21,33,25,23,36,13,0,25,30,0,0,0,0,0,252
+126515001,Philadelphia City SD,SD,Philadelphia,3601,Bryant William C Sch,M,0,0,40,0,0,0,0,0,25,31,30,28,34,31,26,0,25,21,0,0,0,0,0,291
+126515001,Philadelphia City SD,SD,Philadelphia,7230,Carnell Laura H Sch,F,0,0,0,0,0,0,0,0,85,76,97,85,108,93,99,0,79,71,0,0,0,0,0,793
+126515001,Philadelphia City SD,SD,Philadelphia,7230,Carnell Laura H Sch,M,0,0,0,0,0,0,0,0,107,105,112,102,84,100,90,0,102,61,0,0,0,0,0,863
+126515001,Philadelphia City SD,SD,Philadelphia,4728,Carroll Charles Sch,F,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,65,49,35,0,228
+126515001,Philadelphia City SD,SD,Philadelphia,4728,Carroll Charles Sch,M,0,0,16,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,58,63,28,0,238
+126515001,Philadelphia City SD,SD,Philadelphia,7023,Carver HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,91,77,46,0,302
+126515001,Philadelphia City SD,SD,Philadelphia,7023,Carver HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,113,103,112,76,0,404
+126515001,Philadelphia City SD,SD,Philadelphia,3664,Cassidy Lewis C AC Plus Sch,F,0,0,0,0,0,0,0,0,37,44,50,35,38,53,46,0,0,0,0,0,0,0,0,303
+126515001,Philadelphia City SD,SD,Philadelphia,3664,Cassidy Lewis C AC Plus Sch,M,0,0,0,0,0,0,0,0,36,46,43,50,60,45,47,0,0,0,0,0,0,0,0,327
+126515001,Philadelphia City SD,SD,Philadelphia,3602,Catharine Joseph Sch,F,0,0,24,0,0,0,0,0,46,60,57,37,37,43,0,0,0,0,0,0,0,0,0,304
+126515001,Philadelphia City SD,SD,Philadelphia,3602,Catharine Joseph Sch,M,0,0,14,0,0,0,0,0,43,48,59,48,50,40,0,0,0,0,0,0,0,0,0,302
+126515001,Philadelphia City SD,SD,Philadelphia,7404,Cayuga School,F,0,0,0,0,0,0,0,0,36,38,30,36,27,27,0,0,0,0,0,0,0,0,0,194
+126515001,Philadelphia City SD,SD,Philadelphia,7404,Cayuga School,M,0,0,0,0,0,0,0,0,34,31,37,37,31,27,0,0,0,0,0,0,0,0,0,197
+126515001,Philadelphia City SD,SD,Philadelphia,3848,Central HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,333,347,310,303,0,"1,293"
+126515001,Philadelphia City SD,SD,Philadelphia,3848,Central HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,302,311,235,243,0,"1,091"
+126515001,Philadelphia City SD,SD,Philadelphia,3622,Childs George W Sch,F,0,0,24,0,0,0,0,0,22,42,23,32,24,33,36,0,22,29,0,0,0,0,0,287
+126515001,Philadelphia City SD,SD,Philadelphia,3622,Childs George W Sch,M,0,0,15,0,0,0,0,0,33,38,34,39,34,48,18,0,29,21,0,0,0,0,0,309
+126515001,Philadelphia City SD,SD,Philadelphia,6767,Clemente Roberto MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,53,101,0,96,98,0,0,0,0,0,348
+126515001,Philadelphia City SD,SD,Philadelphia,6767,Clemente Roberto MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,37,120,0,101,116,0,0,0,0,0,374
+126515001,Philadelphia City SD,SD,Philadelphia,3666,Cleveland Grover Sch,F,0,0,28,0,0,0,0,0,41,39,30,38,24,37,35,0,33,27,0,0,0,0,0,332
+126515001,Philadelphia City SD,SD,Philadelphia,3666,Cleveland Grover Sch,M,0,0,10,0,0,0,0,0,33,41,43,32,51,34,29,0,29,30,0,0,0,0,0,332
+126515001,Philadelphia City SD,SD,Philadelphia,4733,Clymer George Sch,F,0,0,24,0,0,0,0,0,27,22,17,21,26,21,21,0,19,17,0,0,0,0,0,215
+126515001,Philadelphia City SD,SD,Philadelphia,4733,Clymer George Sch,M,0,0,15,0,0,0,0,0,29,25,21,25,22,26,16,0,15,25,0,0,0,0,0,219
+126515001,Philadelphia City SD,SD,Philadelphia,3782,Comegys Benjamin B Sch,F,0,0,5,0,0,0,0,0,31,34,49,37,36,27,23,0,0,0,0,0,0,0,0,242
+126515001,Philadelphia City SD,SD,Philadelphia,3782,Comegys Benjamin B Sch,M,0,0,8,0,0,0,0,0,30,39,42,43,37,27,42,0,0,0,0,0,0,0,0,268
+126515001,Philadelphia City SD,SD,Philadelphia,3760,Comly Watson Sch,F,0,0,0,0,0,0,0,0,38,29,33,49,32,37,0,0,0,0,0,0,0,0,0,218
+126515001,Philadelphia City SD,SD,Philadelphia,3760,Comly Watson Sch,M,0,0,0,0,0,0,0,0,44,46,31,34,46,31,0,0,0,0,0,0,0,0,0,232
+126515001,Philadelphia City SD,SD,Philadelphia,7781,Communications Technology HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,49,44,39,0,189
+126515001,Philadelphia City SD,SD,Philadelphia,7781,Communications Technology HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,73,80,42,32,0,227
+126515001,Philadelphia City SD,SD,Philadelphia,7905,Constitution HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,56,62,60,0,228
+126515001,Philadelphia City SD,SD,Philadelphia,7905,Constitution HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,38,38,33,0,154
+126515001,Philadelphia City SD,SD,Philadelphia,6525,Conwell Russell MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,80,116,0,117,126,0,0,0,0,0,439
+126515001,Philadelphia City SD,SD,Philadelphia,6525,Conwell Russell MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,53,106,0,99,94,0,0,0,0,0,352
+126515001,Philadelphia City SD,SD,Philadelphia,5122,Cook-Wissahickon Sch,F,0,0,20,0,0,0,0,0,27,22,32,20,19,23,21,0,17,25,0,0,0,0,0,226
+126515001,Philadelphia City SD,SD,Philadelphia,5122,Cook-Wissahickon Sch,M,0,0,18,0,0,0,0,0,24,38,30,16,32,16,19,0,23,23,0,0,0,0,0,239
+126515001,Philadelphia City SD,SD,Philadelphia,7239,Cooke Jay MS,F,0,0,0,0,0,0,0,0,23,25,22,22,27,18,34,0,21,26,0,0,0,0,0,218
+126515001,Philadelphia City SD,SD,Philadelphia,7239,Cooke Jay MS,M,0,0,0,0,0,0,0,0,21,24,26,23,20,29,25,0,32,40,0,0,0,0,0,240
+126515001,Philadelphia City SD,SD,Philadelphia,5123,Cramp William Sch,F,0,0,0,0,0,0,0,0,50,55,52,62,38,42,40,0,0,0,0,0,0,0,0,339
+126515001,Philadelphia City SD,SD,Philadelphia,5123,Cramp William Sch,M,0,0,0,0,0,0,0,0,50,62,53,52,51,39,33,0,0,0,0,0,0,0,0,340
+126515001,Philadelphia City SD,SD,Philadelphia,6996,Creative and Performing Arts,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131,139,120,91,0,481
+126515001,Philadelphia City SD,SD,Philadelphia,6996,Creative and Performing Arts,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,50,43,48,0,201
+126515001,Philadelphia City SD,SD,Philadelphia,3736,Creighton Thomas Sch,F,0,0,0,0,0,0,0,0,42,46,41,31,39,56,39,0,32,34,0,0,0,0,0,360
+126515001,Philadelphia City SD,SD,Philadelphia,3736,Creighton Thomas Sch,M,0,0,0,0,0,0,0,0,46,60,42,43,43,46,42,0,42,42,0,0,0,0,0,406
+126515001,Philadelphia City SD,SD,Philadelphia,3762,Crossan Kennedy C Sch,F,0,0,0,0,0,0,0,0,31,33,34,33,26,28,0,0,0,0,0,0,0,0,0,185
+126515001,Philadelphia City SD,SD,Philadelphia,3762,Crossan Kennedy C Sch,M,0,0,0,0,0,0,0,0,28,33,39,30,31,26,0,0,0,0,0,0,0,0,0,187
+126515001,Philadelphia City SD,SD,Philadelphia,3706,Day Anna B Sch,F,0,0,22,0,0,0,0,0,20,24,25,31,25,27,28,0,22,21,0,0,0,0,0,245
+126515001,Philadelphia City SD,SD,Philadelphia,3706,Day Anna B Sch,M,0,0,16,0,0,0,0,0,31,33,28,29,39,31,23,0,37,24,0,0,0,0,0,291
+126515001,Philadelphia City SD,SD,Philadelphia,7175,DeBurgos Bilingual Magnet MS,F,0,0,23,0,0,0,0,0,18,22,17,24,27,46,30,0,48,57,0,0,0,0,0,312
+126515001,Philadelphia City SD,SD,Philadelphia,7175,DeBurgos Bilingual Magnet MS,M,0,0,16,0,0,0,0,0,15,23,22,21,24,39,52,0,45,44,0,0,0,0,0,301
+126515001,Philadelphia City SD,SD,Philadelphia,4727,Decatur Stephen Sch,F,0,0,0,0,0,0,0,0,44,52,58,38,52,54,58,0,30,32,0,0,0,0,0,418
+126515001,Philadelphia City SD,SD,Philadelphia,4727,Decatur Stephen Sch,M,0,0,1,0,0,0,0,0,61,65,55,60,62,45,57,0,35,37,0,0,0,0,0,478
+126515001,Philadelphia City SD,SD,Philadelphia,3786,Dick William Sch,F,0,0,22,0,0,0,0,0,11,22,13,19,8,16,23,0,14,22,0,0,0,0,0,170
+126515001,Philadelphia City SD,SD,Philadelphia,3786,Dick William Sch,M,0,0,17,0,0,0,0,0,21,14,13,15,16,15,15,0,19,20,0,0,0,0,0,165
+126515001,Philadelphia City SD,SD,Philadelphia,3763,Disston Hamilton Sch,F,0,0,0,0,0,0,0,0,41,40,47,40,46,42,43,0,48,40,0,0,0,0,0,387
+126515001,Philadelphia City SD,SD,Philadelphia,3763,Disston Hamilton Sch,M,0,0,0,0,0,0,0,0,47,45,41,47,34,46,56,0,58,58,0,0,0,0,0,432
+126515001,Philadelphia City SD,SD,Philadelphia,3841,Dobbins AVT HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,158,122,89,91,0,460
+126515001,Philadelphia City SD,SD,Philadelphia,3841,Dobbins AVT HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126,74,61,73,0,334
+126515001,Philadelphia City SD,SD,Philadelphia,3726,Dobson James Sch,F,0,0,0,0,0,0,0,0,11,9,22,15,17,16,18,0,6,11,0,0,0,0,0,125
+126515001,Philadelphia City SD,SD,Philadelphia,3726,Dobson James Sch,M,0,0,0,0,0,0,0,0,7,12,11,12,14,19,14,0,20,17,0,0,0,0,0,126
+126515001,Philadelphia City SD,SD,Philadelphia,3787,Douglas Stephen A Sch,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,33,31,26,0,123
+126515001,Philadelphia City SD,SD,Philadelphia,3787,Douglas Stephen A Sch,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,49,27,29,0,150
+126515001,Philadelphia City SD,SD,Philadelphia,3624,Douglass Frederick Sch,F,0,0,29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29
+126515001,Philadelphia City SD,SD,Philadelphia,3624,Douglass Frederick Sch,M,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35
+126515001,Philadelphia City SD,SD,Philadelphia,3604,Drew Charles R Sch,F,0,0,43,0,0,0,0,0,16,6,14,12,12,14,11,0,15,15,0,0,0,0,0,158
+126515001,Philadelphia City SD,SD,Philadelphia,3604,Drew Charles R Sch,M,0,0,50,0,0,0,0,0,13,21,15,15,12,14,12,0,11,11,0,0,0,0,0,174
+126515001,Philadelphia City SD,SD,Philadelphia,5040,Duckrey Tanner Sch,F,0,0,37,0,0,0,0,0,24,25,25,15,10,21,12,0,22,23,0,0,0,0,0,214
+126515001,Philadelphia City SD,SD,Philadelphia,5040,Duckrey Tanner Sch,M,0,0,41,0,0,0,0,0,27,22,18,24,19,19,14,0,17,19,0,0,0,0,0,220
+126515001,Philadelphia City SD,SD,Philadelphia,3687,Dunbar Paul L Sch,F,0,0,19,0,0,0,0,0,9,15,10,7,10,7,11,0,8,7,0,0,0,0,0,103
+126515001,Philadelphia City SD,SD,Philadelphia,3687,Dunbar Paul L Sch,M,0,0,22,0,0,0,0,0,10,11,11,9,9,9,12,0,10,8,0,0,0,0,0,111
+126515001,Philadelphia City SD,SD,Philadelphia,3849,Edison HS/Fareira Skills,F,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,240,254,163,172,0,837
+126515001,Philadelphia City SD,SD,Philadelphia,3849,Edison HS/Fareira Skills,M,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,281,279,151,173,0,892
+126515001,Philadelphia City SD,SD,Philadelphia,3708,Edmonds Franklin S Sch,F,0,0,19,0,0,0,0,0,43,46,46,44,40,30,36,0,0,0,0,0,0,0,0,304
+126515001,Philadelphia City SD,SD,Philadelphia,3708,Edmonds Franklin S Sch,M,0,0,15,0,0,0,0,0,53,46,37,48,55,51,43,0,0,0,0,0,0,0,0,348
+126515001,Philadelphia City SD,SD,Philadelphia,3737,Edmunds Henry R Sch,F,0,0,0,0,0,0,0,0,52,54,58,38,40,45,46,0,44,52,0,0,0,0,0,429
+126515001,Philadelphia City SD,SD,Philadelphia,3737,Edmunds Henry R Sch,M,0,0,0,0,0,0,0,0,45,75,40,61,47,51,68,0,51,54,0,0,0,0,0,492
+126515001,Philadelphia City SD,SD,Philadelphia,3688,Elkin Lewis Sch,F,0,0,0,0,0,0,0,0,76,105,70,63,71,0,0,0,0,0,0,0,0,0,0,385
+126515001,Philadelphia City SD,SD,Philadelphia,3688,Elkin Lewis Sch,M,0,0,0,0,0,0,0,0,89,110,83,83,79,0,0,0,0,0,0,0,0,0,0,444
+126515001,Philadelphia City SD,SD,Philadelphia,3738,Ellwood Sch,F,0,0,0,0,0,0,0,0,33,29,37,21,28,27,24,0,0,0,0,0,0,0,0,199
+126515001,Philadelphia City SD,SD,Philadelphia,3738,Ellwood Sch,M,0,0,0,0,0,0,0,0,37,27,37,32,24,27,26,0,0,0,0,0,0,0,0,210
+126515001,Philadelphia City SD,SD,Philadelphia,3709,Emlen Eleanor C Sch,F,0,0,21,0,0,0,0,0,30,52,39,40,35,49,30,0,0,0,0,0,0,0,0,296
+126515001,Philadelphia City SD,SD,Philadelphia,3709,Emlen Eleanor C Sch,M,0,0,17,0,0,0,0,0,52,45,55,52,45,42,35,0,0,0,0,0,0,0,0,343
+126515001,Philadelphia City SD,SD,Philadelphia,5039,Fairhill Sch,F,0,0,27,0,0,0,0,0,26,33,33,24,27,30,32,0,27,27,0,0,0,0,0,286
+126515001,Philadelphia City SD,SD,Philadelphia,5039,Fairhill Sch,M,0,0,12,0,0,0,0,0,33,34,41,34,34,32,28,0,26,35,0,0,0,0,0,309
+126515001,Philadelphia City SD,SD,Philadelphia,7235,Farrell Louis H Sch,F,0,0,0,0,0,0,0,0,59,61,45,48,47,32,47,0,50,57,0,0,0,0,0,446
+126515001,Philadelphia City SD,SD,Philadelphia,7235,Farrell Louis H Sch,M,0,0,0,0,0,0,0,0,48,51,56,47,69,38,50,0,60,61,0,0,0,0,0,480
+126515001,Philadelphia City SD,SD,Philadelphia,7226,Fell D Newlin Sch,F,0,0,0,0,0,0,0,0,31,25,18,32,32,24,36,0,29,30,0,0,0,0,0,257
+126515001,Philadelphia City SD,SD,Philadelphia,7226,Fell D Newlin Sch,M,0,0,0,0,0,0,0,0,31,21,25,21,26,30,39,0,22,29,0,0,0,0,0,244
+126515001,Philadelphia City SD,SD,Philadelphia,3816,Fels Samuel HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,228,179,174,148,0,729
+126515001,Philadelphia City SD,SD,Philadelphia,3816,Fels Samuel HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,302,223,164,156,0,845
+126515001,Philadelphia City SD,SD,Philadelphia,3751,Feltonville Intermediate School,F,0,0,0,0,0,0,0,0,0,0,0,104,110,117,0,0,0,0,0,0,0,0,0,331
+126515001,Philadelphia City SD,SD,Philadelphia,3751,Feltonville Intermediate School,M,0,0,0,0,0,0,0,0,0,0,0,109,119,116,0,0,0,0,0,0,0,0,0,344
+126515001,Philadelphia City SD,SD,Philadelphia,7368,Feltonville Sch of Arts & Sciences,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,104,0,114,111,0,0,0,0,0,329
+126515001,Philadelphia City SD,SD,Philadelphia,7368,Feltonville Sch of Arts & Sciences,M,0,0,1,0,0,0,0,0,0,0,0,0,0,0,129,0,111,119,0,0,0,0,0,360
+126515001,Philadelphia City SD,SD,Philadelphia,3690,Ferguson Joseph C Sch,F,0,0,32,0,0,0,0,0,20,26,26,20,17,20,21,0,14,20,0,0,0,0,0,216
+126515001,Philadelphia City SD,SD,Philadelphia,3690,Ferguson Joseph C Sch,M,0,0,29,0,0,0,0,0,19,33,15,16,25,14,10,0,14,19,0,0,0,0,0,194
+126515001,Philadelphia City SD,SD,Philadelphia,3739,Finletter Thomas K Sch,F,0,0,22,0,0,0,0,0,42,37,50,46,39,52,49,0,61,44,0,0,0,0,0,442
+126515001,Philadelphia City SD,SD,Philadelphia,3739,Finletter Thomas K Sch,M,0,0,21,0,0,0,0,0,44,47,52,53,53,45,43,0,60,52,0,0,0,0,0,470
+126515001,Philadelphia City SD,SD,Philadelphia,6913,Fitler Academics Plus,F,0,0,0,0,0,0,0,0,0,19,20,24,19,23,27,0,26,22,0,0,0,0,0,180
+126515001,Philadelphia City SD,SD,Philadelphia,6913,Fitler Academics Plus,M,0,0,0,0,0,0,0,0,0,11,12,22,19,23,15,0,20,27,0,0,0,0,0,149
+126515001,Philadelphia City SD,SD,Philadelphia,3781,Fitzpatrick Aloysius L Sch,F,0,0,11,0,0,0,0,0,56,55,48,32,41,43,42,0,41,40,0,0,0,0,0,409
+126515001,Philadelphia City SD,SD,Philadelphia,3781,Fitzpatrick Aloysius L Sch,M,0,0,9,0,0,0,0,0,56,48,55,47,54,33,39,0,35,40,0,0,0,0,0,416
+126515001,Philadelphia City SD,SD,Philadelphia,7240,Fitzsimons Thomas HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,64,61,79,85,52,49,0,390
+126515001,Philadelphia City SD,SD,Philadelphia,3764,Forrest Edwin Sch,F,0,0,10,0,0,0,0,0,78,84,90,73,84,76,71,0,0,0,0,0,0,0,0,566
+126515001,Philadelphia City SD,SD,Philadelphia,3764,Forrest Edwin Sch,M,0,0,10,0,0,0,0,0,77,113,80,80,78,71,76,0,0,0,0,0,0,0,0,585
+126515001,Philadelphia City SD,SD,Philadelphia,3765,Fox Chase Sch,F,0,0,16,0,0,0,0,0,52,43,32,24,26,30,0,0,0,0,0,0,0,0,0,223
+126515001,Philadelphia City SD,SD,Philadelphia,3765,Fox Chase Sch,M,0,0,24,0,0,0,0,0,41,42,35,29,33,21,0,0,0,0,0,0,0,0,0,225
+126515001,Philadelphia City SD,SD,Philadelphia,3803,Frank Anne Sch,F,0,0,27,0,0,0,0,0,68,84,94,75,68,81,0,0,0,0,0,0,0,0,0,497
+126515001,Philadelphia City SD,SD,Philadelphia,3803,Frank Anne Sch,M,0,0,30,0,0,0,0,0,81,100,83,71,100,83,0,0,0,0,0,0,0,0,0,548
+126515001,Philadelphia City SD,SD,Philadelphia,3850,Frankford HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,249,201,203,161,0,814
+126515001,Philadelphia City SD,SD,Philadelphia,3850,Frankford HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,332,264,245,165,0,"1,006"
+126515001,Philadelphia City SD,SD,Philadelphia,3851,Franklin Benjamin HS,F,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,93,69,62,99,0,329
+126515001,Philadelphia City SD,SD,Philadelphia,3851,Franklin Benjamin HS,M,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,102,86,63,90,0,349
+126515001,Philadelphia City SD,SD,Philadelphia,7231,Franklin Benjamin Sch,F,0,0,0,0,0,0,0,0,52,48,73,52,70,51,56,0,69,54,0,0,0,0,0,525
+126515001,Philadelphia City SD,SD,Philadelphia,7231,Franklin Benjamin Sch,M,0,0,0,0,0,0,0,0,67,65,63,55,66,53,53,0,63,62,0,0,0,0,0,547
+126515001,Philadelphia City SD,SD,Philadelphia,6822,Franklin LC,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,82,0,297,379
+126515001,Philadelphia City SD,SD,Philadelphia,6822,Franklin LC,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,0,237,295
+126515001,Philadelphia City SD,SD,Philadelphia,3791,Fulton Robert Sch,F,0,0,0,0,0,0,0,0,30,27,19,24,27,21,26,0,0,0,0,0,0,0,0,174
+126515001,Philadelphia City SD,SD,Philadelphia,3791,Fulton Robert Sch,M,0,0,0,0,0,0,0,0,17,28,24,36,23,27,34,0,0,0,0,0,0,0,0,189
+126515001,Philadelphia City SD,SD,Philadelphia,3818,Furness Horace HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,79,57,70,0,283
+126515001,Philadelphia City SD,SD,Philadelphia,3818,Furness Horace HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,94,102,58,60,0,314
+126515001,Philadelphia City SD,SD,Philadelphia,7963,G & Hunting Park El Sch,F,0,0,23,0,0,0,0,0,68,68,51,48,48,67,62,0,51,65,0,0,0,0,0,551
+126515001,Philadelphia City SD,SD,Philadelphia,7963,G & Hunting Park El Sch,M,0,0,16,0,0,0,0,0,62,71,72,53,55,55,55,0,60,67,0,0,0,0,0,566
+126515001,Philadelphia City SD,SD,Philadelphia,7664,Gamp,F,0,0,0,0,0,0,0,0,0,0,0,0,0,32,41,0,41,37,37,33,21,32,0,274
+126515001,Philadelphia City SD,SD,Philadelphia,7664,Gamp,M,0,0,0,0,0,0,0,0,0,0,0,0,0,31,24,0,24,25,27,33,28,29,0,221
+126515001,Philadelphia City SD,SD,Philadelphia,3852,Germantown HS,F,0,0,35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,111,115,96,95,0,452
+126515001,Philadelphia City SD,SD,Philadelphia,3852,Germantown HS,M,0,0,43,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,117,150,96,105,0,511
+126515001,Philadelphia City SD,SD,Philadelphia,3625,Gideon Edward Sch,F,0,0,36,0,0,0,0,0,25,26,14,21,27,17,14,0,13,9,0,0,0,0,0,202
+126515001,Philadelphia City SD,SD,Philadelphia,3625,Gideon Edward Sch,M,0,0,21,0,0,0,0,0,24,20,16,13,22,18,24,0,13,18,0,0,0,0,0,189
+126515001,Philadelphia City SD,SD,Philadelphia,3776,Girard Stephen Sch,F,0,0,0,0,0,0,0,0,59,55,54,55,51,0,0,0,0,0,0,0,0,0,0,274
+126515001,Philadelphia City SD,SD,Philadelphia,3776,Girard Stephen Sch,M,0,0,0,0,0,0,0,0,62,66,73,58,57,0,0,0,0,0,0,0,0,0,0,316
+126515001,Philadelphia City SD,SD,Philadelphia,3843,Girls HS,F,0,0,12,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,291,303,228,271,0,"1,105"
+126515001,Philadelphia City SD,SD,Philadelphia,3843,Girls HS,M,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+126515001,Philadelphia City SD,SD,Philadelphia,3668,Gompers Samuel Sch,F,0,0,0,0,0,0,0,0,15,28,19,18,23,18,27,0,0,0,0,0,0,0,0,148
+126515001,Philadelphia City SD,SD,Philadelphia,3668,Gompers Samuel Sch,M,0,0,0,0,0,0,0,0,20,24,21,24,36,34,16,0,0,0,0,0,0,0,0,175
+126515001,Philadelphia City SD,SD,Philadelphia,3853,Gratz Simon HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,97,126,142,156,0,521
+126515001,Philadelphia City SD,SD,Philadelphia,3853,Gratz Simon HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,118,142,184,145,0,589
+126515001,Philadelphia City SD,SD,Philadelphia,4726,Greenberg Joseph Sch,F,0,0,7,0,0,0,0,0,40,31,40,38,42,39,42,0,36,34,0,0,0,0,0,349
+126515001,Philadelphia City SD,SD,Philadelphia,4726,Greenberg Joseph Sch,M,0,0,8,0,0,0,0,0,32,26,35,36,40,44,40,0,34,39,0,0,0,0,0,334
+126515001,Philadelphia City SD,SD,Philadelphia,5186,Greenfield Albert M Sch,F,0,0,0,0,0,0,0,0,27,31,29,30,24,24,24,0,21,30,0,0,0,0,0,240
+126515001,Philadelphia City SD,SD,Philadelphia,5186,Greenfield Albert M Sch,M,0,0,0,0,0,0,0,0,39,31,38,21,30,29,28,0,24,19,0,0,0,0,0,259
+126515001,Philadelphia City SD,SD,Philadelphia,5120,Hackett Horatio B Sch,F,0,0,0,0,0,0,0,0,30,33,25,30,23,29,15,0,0,0,0,0,0,0,0,185
+126515001,Philadelphia City SD,SD,Philadelphia,5120,Hackett Horatio B Sch,M,0,0,0,0,0,0,0,0,41,34,36,18,38,29,24,0,0,0,0,0,0,0,0,220
+126515001,Philadelphia City SD,SD,Philadelphia,5185,Hamilton Andrew Sch,F,0,0,0,0,0,0,0,0,30,25,32,34,22,23,45,0,44,51,0,0,0,0,0,306
+126515001,Philadelphia City SD,SD,Philadelphia,5185,Hamilton Andrew Sch,M,0,0,0,0,0,0,0,0,31,31,28,27,36,34,37,0,44,38,0,0,0,0,0,306
+126515001,Philadelphia City SD,SD,Philadelphia,5041,Hancock John Sch,F,0,0,0,0,0,0,0,0,35,48,45,45,42,31,0,0,0,0,0,0,0,0,0,246
+126515001,Philadelphia City SD,SD,Philadelphia,5041,Hancock John Sch,M,0,0,0,0,0,0,0,0,50,45,37,34,41,36,0,0,0,0,0,0,0,0,0,243
+126515001,Philadelphia City SD,SD,Philadelphia,7242,Harding Warren G MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,0,153,134,0,0,0,0,0,386
+126515001,Philadelphia City SD,SD,Philadelphia,7242,Harding Warren G MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,126,0,184,138,0,0,0,0,0,448
+126515001,Philadelphia City SD,SD,Philadelphia,6528,Harrington Avery D Sch,F,0,0,0,0,0,0,0,0,32,39,43,33,35,27,20,0,0,0,0,0,0,0,0,229
+126515001,Philadelphia City SD,SD,Philadelphia,6528,Harrington Avery D Sch,M,0,0,0,0,0,0,0,0,35,46,39,36,33,31,26,0,0,0,0,0,0,0,0,246
+126515001,Philadelphia City SD,SD,Philadelphia,3793,Harrison William H Sch,F,0,0,0,0,0,0,0,0,9,12,12,9,17,9,0,0,12,9,0,0,0,0,0,89
+126515001,Philadelphia City SD,SD,Philadelphia,3793,Harrison William H Sch,M,0,0,0,0,0,0,0,0,10,6,15,10,11,11,14,0,9,11,0,0,0,0,0,97
+126515001,Philadelphia City SD,SD,Philadelphia,3608,Harrity William F Sch,F,0,0,14,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,14
+126515001,Philadelphia City SD,SD,Philadelphia,3608,Harrity William F Sch,M,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,5
+126515001,Philadelphia City SD,SD,Philadelphia,5125,Hartranft John F Sch,F,0,0,21,0,0,0,0,0,25,26,22,24,25,15,15,0,20,19,0,0,0,0,0,212
+126515001,Philadelphia City SD,SD,Philadelphia,5125,Hartranft John F Sch,M,0,0,19,0,0,0,0,0,30,31,39,20,14,25,30,0,19,17,0,0,0,0,0,244
+126515001,Philadelphia City SD,SD,Philadelphia,3712,Henry Charles W Sch,F,0,0,0,0,0,0,0,0,15,20,26,31,27,38,27,0,23,20,0,0,0,0,0,227
+126515001,Philadelphia City SD,SD,Philadelphia,3712,Henry Charles W Sch,M,0,0,0,0,0,0,0,0,27,26,22,21,23,25,15,0,25,27,0,0,0,0,0,211
+126515001,Philadelphia City SD,SD,Philadelphia,5187,Heston Edward Sch,F,0,0,30,0,0,0,0,0,25,31,29,29,23,13,22,0,19,20,0,0,0,0,0,241
+126515001,Philadelphia City SD,SD,Philadelphia,5187,Heston Edward Sch,M,0,0,26,0,0,0,0,0,31,45,31,29,19,15,29,0,29,19,0,0,0,0,0,273
+126515001,Philadelphia City SD,SD,Philadelphia,7229,Hill J E/Freedman Samson,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,0,36,36,0,0,0,0,0,122
+126515001,Philadelphia City SD,SD,Philadelphia,7229,Hill J E/Freedman Samson,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,0,30,39,0,0,0,0,0,92
+126515001,Philadelphia City SD,SD,Philadelphia,3806,Hill Leslie P Sch,F,0,0,34,0,0,0,0,0,22,29,24,21,15,17,16,0,5,12,0,0,0,0,0,195
+126515001,Philadelphia City SD,SD,Philadelphia,3806,Hill Leslie P Sch,M,0,0,35,0,0,0,0,0,28,25,24,20,22,16,17,0,16,27,0,0,0,0,0,230
+126515001,Philadelphia City SD,SD,Philadelphia,3766,Holme Thomas Sch,F,0,0,43,0,0,0,0,0,36,30,28,24,26,19,29,0,0,0,0,0,0,0,0,235
+126515001,Philadelphia City SD,SD,Philadelphia,3766,Holme Thomas Sch,M,0,0,52,0,0,0,0,0,35,36,37,32,33,29,25,0,0,0,0,0,0,0,0,279
+126515001,Philadelphia City SD,SD,Philadelphia,3742,Hopkinson Francis Sch,F,0,0,0,0,0,0,0,0,46,57,48,51,43,52,45,0,39,47,0,0,0,0,0,428
+126515001,Philadelphia City SD,SD,Philadelphia,3742,Hopkinson Francis Sch,M,0,0,0,0,0,0,0,0,51,54,58,54,59,53,54,0,28,50,0,0,0,0,0,461
+126515001,Philadelphia City SD,SD,Philadelphia,3713,Houston Henry E Sch,F,0,0,15,0,0,0,0,0,21,29,21,27,21,33,20,0,28,29,0,0,0,0,0,244
+126515001,Philadelphia City SD,SD,Philadelphia,3713,Houston Henry E Sch,M,0,0,15,0,0,0,0,0,29,31,25,20,28,20,37,0,31,27,0,0,0,0,0,263
+126515001,Philadelphia City SD,SD,Philadelphia,3743,Howe Julia Ward Sch,F,0,0,0,0,0,0,0,0,33,25,25,22,23,21,0,0,0,0,0,0,0,0,0,149
+126515001,Philadelphia City SD,SD,Philadelphia,3743,Howe Julia Ward Sch,M,0,0,1,0,0,0,0,0,23,31,34,29,26,29,0,0,0,0,0,0,0,0,0,173
+126515001,Philadelphia City SD,SD,Philadelphia,3807,Huey Samuel B Sch,F,0,0,0,0,0,0,0,0,33,43,40,34,47,40,42,0,56,29,0,0,0,0,0,364
+126515001,Philadelphia City SD,SD,Philadelphia,3807,Huey Samuel B Sch,M,0,0,0,0,0,0,0,0,42,58,44,48,47,47,38,0,47,46,0,0,0,0,0,417
+126515001,Philadelphia City SD,SD,Philadelphia,3693,Hunter William H Sch,F,0,0,16,0,0,0,0,0,24,42,35,22,24,32,28,0,29,26,0,0,0,0,0,278
+126515001,Philadelphia City SD,SD,Philadelphia,3693,Hunter William H Sch,M,0,0,22,0,0,0,0,0,33,41,27,22,24,27,29,0,28,36,0,0,0,0,0,289
+126515001,Philadelphia City SD,SD,Philadelphia,3642,Jackson Andrew Sch,F,0,0,19,0,0,0,0,0,40,17,9,17,18,13,18,0,22,10,0,0,0,0,0,183
+126515001,Philadelphia City SD,SD,Philadelphia,3642,Jackson Andrew Sch,M,0,0,17,0,0,0,0,0,20,24,17,20,20,20,20,0,25,6,0,0,0,0,0,189
+126515001,Philadelphia City SD,SD,Philadelphia,7227,Jenks Abram Sch,F,0,0,0,0,0,0,0,0,31,50,31,49,23,0,0,0,0,0,0,0,0,0,0,184
+126515001,Philadelphia City SD,SD,Philadelphia,7227,Jenks Abram Sch,M,0,0,0,0,0,0,0,0,29,40,37,27,41,0,0,0,0,0,0,0,0,0,0,174
+126515001,Philadelphia City SD,SD,Philadelphia,3714,Jenks John S Sch,F,0,0,0,0,0,0,0,0,30,24,33,27,27,28,26,0,26,23,0,0,0,0,0,244
+126515001,Philadelphia City SD,SD,Philadelphia,3714,Jenks John S Sch,M,0,0,0,0,0,0,0,0,18,31,21,35,33,23,25,0,26,34,0,0,0,0,0,246
+126515001,Philadelphia City SD,SD,Philadelphia,7243,Jones John Paul MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,91,101,0,112,72,0,0,0,0,0,376
+126515001,Philadelphia City SD,SD,Philadelphia,7243,Jones John Paul MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,117,122,0,108,90,0,0,0,0,0,437
+126515001,Philadelphia City SD,SD,Philadelphia,3645,Kearny Gen Philip Sch,F,0,0,0,0,0,0,0,0,28,28,20,17,26,22,23,0,16,14,0,0,0,0,0,194
+126515001,Philadelphia City SD,SD,Philadelphia,3645,Kearny Gen Philip Sch,M,0,0,0,0,0,0,0,0,19,27,33,28,25,21,21,0,25,23,0,0,0,0,0,222
+126515001,Philadelphia City SD,SD,Philadelphia,3626,Kelley William D Sch,F,0,0,25,0,0,0,0,0,23,25,17,18,14,16,10,0,15,14,0,0,0,0,0,177
+126515001,Philadelphia City SD,SD,Philadelphia,3626,Kelley William D Sch,M,0,0,15,0,0,0,0,0,12,25,16,17,21,22,21,0,17,10,0,0,0,0,0,176
+126515001,Philadelphia City SD,SD,Philadelphia,5294,Kelly John B Sch,F,0,0,0,0,0,0,0,0,72,55,66,58,52,48,53,0,0,0,0,0,0,0,0,404
+126515001,Philadelphia City SD,SD,Philadelphia,5294,Kelly John B Sch,M,0,0,0,0,0,0,0,0,62,64,66,48,56,77,64,0,0,0,0,0,0,0,0,437
+126515001,Philadelphia City SD,SD,Philadelphia,3795,Kenderton Sch,F,0,0,0,0,0,0,0,0,8,21,25,22,20,19,16,0,23,19,0,0,0,0,0,173
+126515001,Philadelphia City SD,SD,Philadelphia,3795,Kenderton Sch,M,0,0,0,0,0,0,0,0,20,31,22,24,11,16,14,0,24,20,0,0,0,0,0,182
+126515001,Philadelphia City SD,SD,Philadelphia,7852,Kensington Creative & Performing Arts HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,74,80,80,0,286
+126515001,Philadelphia City SD,SD,Philadelphia,7852,Kensington Creative & Performing Arts HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,59,86,53,62,0,260
+126515001,Philadelphia City SD,SD,Philadelphia,7855,Kensington Culinary Arts,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,69,81,49,0,252
+126515001,Philadelphia City SD,SD,Philadelphia,7855,Kensington Culinary Arts,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,69,62,50,0,252
+126515001,Philadelphia City SD,SD,Philadelphia,7851,"Kensington Intern Business, Finance & En",F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,54,35,54,0,217
+126515001,Philadelphia City SD,SD,Philadelphia,7851,"Kensington Intern Business, Finance & En",M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,99,46,61,0,294
+126515001,Philadelphia City SD,SD,Philadelphia,8143,Kensington Urban Education Academy,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,0,0,0,0,45
+126515001,Philadelphia City SD,SD,Philadelphia,8143,Kensington Urban Education Academy,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,0,0,0,0,36
+126515001,Philadelphia City SD,SD,Philadelphia,7228,Key Francis Scott Sch,F,0,0,0,0,0,0,0,0,32,41,38,37,29,32,27,0,0,0,0,0,0,0,0,236
+126515001,Philadelphia City SD,SD,Philadelphia,7228,Key Francis Scott Sch,M,0,0,0,0,0,0,0,0,31,33,30,39,31,19,18,0,0,0,0,0,0,0,0,201
+126515001,Philadelphia City SD,SD,Philadelphia,6675,King Martin Luther HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,170,116,101,121,0,508
+126515001,Philadelphia City SD,SD,Philadelphia,6675,King Martin Luther HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,205,136,107,131,0,579
+126515001,Philadelphia City SD,SD,Philadelphia,3715,Kinsey John L Sch,F,0,0,17,0,0,0,0,0,29,21,31,29,27,30,15,0,26,27,0,0,0,0,0,252
+126515001,Philadelphia City SD,SD,Philadelphia,3715,Kinsey John L Sch,M,0,0,18,0,0,0,0,0,32,37,34,31,23,27,28,0,34,35,0,0,0,0,0,299
+126515001,Philadelphia City SD,SD,Philadelphia,3647,Kirkbride Eliza B Sch,F,0,0,23,0,0,0,0,0,24,27,40,21,26,21,22,0,23,20,0,0,0,0,0,247
+126515001,Philadelphia City SD,SD,Philadelphia,3647,Kirkbride Eliza B Sch,M,0,0,15,0,0,0,0,0,32,36,32,24,26,18,29,0,19,20,0,0,0,0,0,251
+126515001,Philadelphia City SD,SD,Philadelphia,6825,La Brum Gen J Harry MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,0,21,27,0,0,0,0,0,70
+126515001,Philadelphia City SD,SD,Philadelphia,6825,La Brum Gen J Harry MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,0,37,23,0,0,0,0,0,95
+126515001,Philadelphia City SD,SD,Philadelphia,3670,Lamberton Robert E Sch,F,0,0,0,0,0,0,0,0,29,32,29,21,25,30,36,0,35,37,0,0,0,0,0,274
+126515001,Philadelphia City SD,SD,Philadelphia,3670,Lamberton Robert E Sch,M,0,0,0,0,0,0,0,0,22,32,37,29,27,42,27,0,30,42,0,0,0,0,0,288
+126515001,Philadelphia City SD,SD,Philadelphia,7810,Lamberton Robert HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,21,18,36,0,105
+126515001,Philadelphia City SD,SD,Philadelphia,7810,Lamberton Robert HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,29,40,34,0,153
+126515001,Philadelphia City SD,SD,Philadelphia,7811,Lankenau HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,42,43,54,0,163
+126515001,Philadelphia City SD,SD,Philadelphia,7811,Lankenau HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,33,24,22,0,107
+126515001,Philadelphia City SD,SD,Philadelphia,3744,Lawton Henry W Sch,F,0,0,0,0,0,0,0,0,61,67,58,58,56,60,48,0,0,0,0,0,0,0,0,408
+126515001,Philadelphia City SD,SD,Philadelphia,3744,Lawton Henry W Sch,M,0,0,0,0,0,0,0,0,49,69,68,73,69,62,51,0,0,0,0,0,0,0,0,441
+126515001,Philadelphia City SD,SD,Philadelphia,6530,Lea Henry C Sch,F,0,0,29,0,0,0,0,0,19,24,19,26,23,10,14,0,18,24,0,0,0,0,0,206
+126515001,Philadelphia City SD,SD,Philadelphia,6530,Lea Henry C Sch,M,0,0,31,0,0,0,0,0,22,39,29,21,23,16,25,0,30,22,0,0,0,0,0,258
+126515001,Philadelphia City SD,SD,Philadelphia,3822,Leeds Morris E MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,79,0,0,0,0,0,139
+126515001,Philadelphia City SD,SD,Philadelphia,3822,Leeds Morris E MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,88,0,0,0,0,0,177
+126515001,Philadelphia City SD,SD,Philadelphia,3671,Leidy Joseph Sch,F,0,0,0,0,0,0,0,0,12,22,23,9,19,15,18,0,9,11,0,0,0,0,0,138
+126515001,Philadelphia City SD,SD,Philadelphia,3671,Leidy Joseph Sch,M,0,0,0,0,0,0,0,0,16,23,27,23,18,17,16,0,18,17,0,0,0,0,0,175
+126515001,Philadelphia City SD,SD,Philadelphia,3716,Levering William Sch,F,0,0,9,0,0,0,0,0,9,9,7,7,2,11,4,0,16,17,0,0,0,0,0,91
+126515001,Philadelphia City SD,SD,Philadelphia,3716,Levering William Sch,M,0,0,6,0,0,0,0,0,13,14,9,12,9,11,14,0,16,16,0,0,0,0,0,120
+126515001,Philadelphia City SD,SD,Philadelphia,3845,Lincoln HS,F,0,0,22,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,280,233,201,145,0,881
+126515001,Philadelphia City SD,SD,Philadelphia,3845,Lincoln HS,M,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,326,273,217,165,0,999
+126515001,Philadelphia City SD,SD,Philadelphia,3717,Lingelbach Anna L Sch,F,0,0,0,0,0,0,0,0,25,23,18,22,17,25,35,0,16,27,0,0,0,0,0,208
+126515001,Philadelphia City SD,SD,Philadelphia,3717,Lingelbach Anna L Sch,M,0,0,0,0,0,0,0,0,22,20,29,16,15,28,20,0,21,32,0,0,0,0,0,203
+126515001,Philadelphia City SD,SD,Philadelphia,4732,Locke Alain Sch,F,0,0,0,0,0,0,0,0,33,27,17,21,24,20,25,0,16,13,0,0,0,0,0,196
+126515001,Philadelphia City SD,SD,Philadelphia,4732,Locke Alain Sch,M,0,0,0,0,0,0,0,0,25,34,34,26,31,20,16,0,25,10,0,0,0,0,0,221
+126515001,Philadelphia City SD,SD,Philadelphia,4961,Loesche William H Sch,F,0,0,22,0,0,0,0,0,55,61,60,65,47,62,0,0,0,0,0,0,0,0,0,372
+126515001,Philadelphia City SD,SD,Philadelphia,4961,Loesche William H Sch,M,0,0,17,0,0,0,0,0,73,60,64,67,75,67,0,0,0,0,0,0,0,0,0,423
+126515001,Philadelphia City SD,SD,Philadelphia,3718,Logan James Sch,F,0,0,41,0,0,0,0,0,20,29,20,27,30,21,33,0,0,0,0,0,0,0,0,221
+126515001,Philadelphia City SD,SD,Philadelphia,3718,Logan James Sch,M,0,0,46,0,0,0,0,0,28,35,39,26,31,30,30,0,0,0,0,0,0,0,0,265
+126515001,Philadelphia City SD,SD,Philadelphia,6533,Longstreth William C Sch,F,0,0,23,0,0,0,0,0,29,31,28,30,29,28,26,0,29,18,0,0,0,0,0,271
+126515001,Philadelphia City SD,SD,Philadelphia,6533,Longstreth William C Sch,M,0,0,15,0,0,0,0,0,30,33,32,27,28,28,29,0,31,30,0,0,0,0,0,283
+126515001,Philadelphia City SD,SD,Philadelphia,7232,Lowell James R Sch,F,0,0,18,0,0,0,0,0,91,93,93,94,86,0,0,0,0,0,0,0,0,0,0,475
+126515001,Philadelphia City SD,SD,Philadelphia,7232,Lowell James R Sch,M,0,0,18,0,0,0,0,0,105,91,117,111,109,0,0,0,0,0,0,0,0,0,0,551
+126515001,Philadelphia City SD,SD,Philadelphia,3694,Ludlow James R Sch,F,0,0,15,0,0,0,0,0,12,22,25,13,16,12,8,0,9,11,0,0,0,0,0,143
+126515001,Philadelphia City SD,SD,Philadelphia,3694,Ludlow James R Sch,M,0,0,13,0,0,0,0,0,21,30,18,24,23,19,14,0,14,13,0,0,0,0,0,189
+126515001,Philadelphia City SD,SD,Philadelphia,3672,Mann William B Sch,F,0,0,28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28
+126515001,Philadelphia City SD,SD,Philadelphia,3672,Mann William B Sch,M,0,0,31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31
+126515001,Philadelphia City SD,SD,Philadelphia,3797,Marshall John Sch,F,0,0,0,0,0,0,0,0,32,40,27,28,28,20,0,0,0,0,0,0,0,0,0,175
+126515001,Philadelphia City SD,SD,Philadelphia,3797,Marshall John Sch,M,0,0,0,0,0,0,0,0,34,48,41,46,33,21,0,0,0,0,0,0,0,0,0,223
+126515001,Philadelphia City SD,SD,Philadelphia,7521,Marshall Thurgood,F,0,0,27,0,0,0,0,0,29,40,41,47,45,30,47,0,42,29,0,0,0,0,0,377
+126515001,Philadelphia City SD,SD,Philadelphia,7521,Marshall Thurgood,M,0,0,31,0,0,0,0,0,53,47,31,50,40,46,47,0,28,26,0,0,0,0,0,399
+126515001,Philadelphia City SD,SD,Philadelphia,3842,Mastbaum Jules E AVTS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,154,82,92,140,0,468
+126515001,Philadelphia City SD,SD,Philadelphia,3842,Mastbaum Jules E AVTS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,169,86,109,120,0,484
+126515001,Philadelphia City SD,SD,Philadelphia,3808,Masterman Julia R Sec Sch,F,0,0,0,0,0,0,0,0,0,0,0,0,0,94,111,0,101,113,64,59,56,64,0,662
+126515001,Philadelphia City SD,SD,Philadelphia,3808,Masterman Julia R Sec Sch,M,0,0,0,0,0,0,0,0,0,0,0,0,0,69,88,0,95,82,41,47,47,50,0,519
+126515001,Philadelphia City SD,SD,Philadelphia,3769,Mayfair Sch,F,0,0,0,0,0,0,0,0,63,58,53,59,55,47,72,0,57,51,0,0,0,0,0,515
+126515001,Philadelphia City SD,SD,Philadelphia,3769,Mayfair Sch,M,0,0,0,0,0,0,0,0,60,67,54,49,65,55,49,0,50,38,0,0,0,0,0,487
+126515001,Philadelphia City SD,SD,Philadelphia,3648,McCall Gen George A Sch,F,0,0,0,0,0,0,0,0,41,30,32,38,28,25,27,0,31,16,0,0,0,0,0,268
+126515001,Philadelphia City SD,SD,Philadelphia,3648,McCall Gen George A Sch,M,0,0,0,0,0,0,0,0,39,41,46,26,34,28,30,0,24,35,0,0,0,0,0,303
+126515001,Philadelphia City SD,SD,Philadelphia,3719,McCloskey John F Sch,F,0,0,38,0,0,0,0,0,29,36,25,31,21,30,23,0,0,0,0,0,0,0,0,233
+126515001,Philadelphia City SD,SD,Philadelphia,3719,McCloskey John F Sch,M,0,0,32,0,0,0,0,0,30,23,22,30,29,32,23,0,0,0,0,0,0,0,0,221
+126515001,Philadelphia City SD,SD,Philadelphia,6534,McClure Alexander K Sch,F,0,0,19,0,0,0,0,0,45,53,40,47,45,0,0,0,0,0,0,0,0,0,0,249
+126515001,Philadelphia City SD,SD,Philadelphia,6534,McClure Alexander K Sch,M,0,0,25,0,0,0,0,0,44,57,43,56,35,0,0,0,0,0,0,0,0,0,0,260
+126515001,Philadelphia City SD,SD,Philadelphia,3629,McDaniel Delaplaine Sch,F,0,0,0,0,0,0,0,0,49,57,62,55,50,49,41,0,46,0,0,0,0,0,0,409
+126515001,Philadelphia City SD,SD,Philadelphia,3629,McDaniel Delaplaine Sch,M,0,0,0,0,0,0,0,0,53,62,69,56,60,47,55,0,32,0,0,0,0,0,0,434
+126515001,Philadelphia City SD,SD,Philadelphia,5293,McKinley William Sch,F,0,0,17,0,0,0,0,0,20,13,12,13,20,13,10,0,21,13,0,0,0,0,0,152
+126515001,Philadelphia City SD,SD,Philadelphia,5293,McKinley William Sch,M,0,0,20,0,0,0,0,0,14,24,24,20,17,10,16,0,10,23,0,0,0,0,0,178
+126515001,Philadelphia City SD,SD,Philadelphia,3611,McMichael Morton Sch,F,0,0,29,0,0,0,0,0,17,23,20,24,19,12,21,0,10,10,0,0,0,0,0,185
+126515001,Philadelphia City SD,SD,Philadelphia,3611,McMichael Morton Sch,M,0,0,26,0,0,0,0,0,21,27,25,14,26,20,22,0,18,15,0,0,0,0,0,214
+126515001,Philadelphia City SD,SD,Philadelphia,3630,Meade Gen George C Sch,F,0,0,29,0,0,0,0,0,19,21,26,20,18,18,8,0,10,20,0,0,0,0,0,189
+126515001,Philadelphia City SD,SD,Philadelphia,3630,Meade Gen George C Sch,M,0,0,28,0,0,0,0,0,30,20,30,27,17,27,26,0,21,13,0,0,0,0,0,239
+126515001,Philadelphia City SD,SD,Philadelphia,6768,Meehan Austin MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,2,1,0,147,124,0,0,0,0,0,274
+126515001,Philadelphia City SD,SD,Philadelphia,6768,Meehan Austin MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,175,142,0,0,0,0,0,318
+126515001,Philadelphia City SD,SD,Philadelphia,3649,Meredith William M Sch,F,0,0,0,0,0,0,0,0,24,29,33,26,30,26,23,0,31,29,0,0,0,0,0,251
+126515001,Philadelphia City SD,SD,Philadelphia,3649,Meredith William M Sch,M,0,0,0,0,0,0,0,0,28,18,32,30,23,27,32,0,21,26,0,0,0,0,0,237
+126515001,Philadelphia City SD,SD,Philadelphia,7022,Middle Years Alternative,F,0,0,0,0,0,0,0,0,0,0,0,0,0,29,27,0,47,38,0,0,0,0,0,141
+126515001,Philadelphia City SD,SD,Philadelphia,7022,Middle Years Alternative,M,0,0,0,0,0,0,0,0,0,0,0,0,0,15,27,0,33,28,0,0,0,0,0,103
+126515001,Philadelphia City SD,SD,Philadelphia,3720,Mifflin Thomas Sch,F,0,0,40,0,0,0,0,0,16,16,4,21,11,16,12,0,8,7,0,0,0,0,0,151
+126515001,Philadelphia City SD,SD,Philadelphia,3720,Mifflin Thomas Sch,M,0,0,39,0,0,0,0,0,11,15,8,20,15,14,12,0,17,14,0,0,0,0,0,165
+126515001,Philadelphia City SD,SD,Philadelphia,3798,Mitchell El Sch,F,0,0,19,0,0,0,0,0,61,41,45,41,37,42,0,0,0,0,0,0,0,0,0,286
+126515001,Philadelphia City SD,SD,Philadelphia,3798,Mitchell El Sch,M,0,0,17,0,0,0,0,0,42,47,45,43,48,30,0,0,0,0,0,0,0,0,0,272
+126515001,Philadelphia City SD,SD,Philadelphia,3697,Moffet John Sch,F,0,0,0,0,0,0,0,0,37,38,41,33,40,34,0,0,0,0,0,0,0,0,0,223
+126515001,Philadelphia City SD,SD,Philadelphia,3697,Moffet John Sch,M,0,0,0,0,0,0,0,0,37,49,37,38,31,31,0,0,0,0,0,0,0,0,0,223
+126515001,Philadelphia City SD,SD,Philadelphia,3770,Moore J Hampton Sch,F,0,0,0,0,0,0,0,0,81,88,103,105,64,103,0,0,0,0,0,0,0,0,0,544
+126515001,Philadelphia City SD,SD,Philadelphia,3770,Moore J Hampton Sch,M,0,0,0,0,0,0,0,0,71,88,102,101,101,100,0,0,0,0,0,0,0,0,0,563
+126515001,Philadelphia City SD,SD,Philadelphia,4868,Morris Robert Sch,F,0,0,36,0,0,0,0,0,21,23,18,20,19,20,16,0,21,16,0,0,0,0,0,210
+126515001,Philadelphia City SD,SD,Philadelphia,4868,Morris Robert Sch,M,0,0,46,0,0,0,0,0,24,22,17,20,17,19,19,0,20,14,0,0,0,0,0,218
+126515001,Philadelphia City SD,SD,Philadelphia,3749,Morrison Andrew J Sch,F,0,0,0,0,0,0,0,0,39,39,38,40,41,38,49,0,44,30,0,0,0,0,0,358
+126515001,Philadelphia City SD,SD,Philadelphia,3749,Morrison Andrew J Sch,M,0,0,0,0,0,0,0,0,28,35,52,50,44,44,57,0,27,44,0,0,0,0,0,381
+126515001,Philadelphia City SD,SD,Philadelphia,6535,Morton Thomas G Sch,F,0,0,0,0,0,0,0,0,71,63,60,70,61,47,0,0,0,0,0,0,0,0,0,372
+126515001,Philadelphia City SD,SD,Philadelphia,6535,Morton Thomas G Sch,M,0,0,0,0,0,0,0,0,78,63,75,60,65,59,0,0,0,0,0,0,0,0,0,400
+126515001,Philadelphia City SD,SD,Philadelphia,7815,Motivation HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,28,33,42,34,0,137
+126515001,Philadelphia City SD,SD,Philadelphia,7815,Motivation HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,16,13,20,0,73
+126515001,Philadelphia City SD,SD,Philadelphia,7522,Munoz-Marin Luis,F,0,0,31,0,0,0,0,0,39,40,40,38,48,35,33,0,39,42,0,0,0,0,0,385
+126515001,Philadelphia City SD,SD,Philadelphia,7522,Munoz-Marin Luis,M,0,0,24,0,0,0,0,0,30,44,47,33,32,33,38,0,42,60,0,0,0,0,0,383
+126515001,Philadelphia City SD,SD,Philadelphia,3650,Nebinger George W Sch,F,0,0,22,0,0,0,0,0,8,18,21,10,16,10,13,0,8,15,0,0,0,0,0,141
+126515001,Philadelphia City SD,SD,Philadelphia,3650,Nebinger George W Sch,M,0,0,11,0,0,0,0,0,18,18,15,13,12,25,14,0,8,10,0,0,0,0,0,144
+126515001,Philadelphia City SD,SD,Philadelphia,3855,Northeast HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,427,378,329,358,0,"1,492"
+126515001,Philadelphia City SD,SD,Philadelphia,3855,Northeast HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,539,498,391,371,0,"1,799"
+126515001,Philadelphia City SD,SD,Philadelphia,3750,Olney El Sch,F,0,0,0,0,0,0,0,0,49,49,41,38,45,44,41,0,39,40,0,0,0,0,0,386
+126515001,Philadelphia City SD,SD,Philadelphia,3750,Olney El Sch,M,0,0,0,0,0,0,0,0,41,56,44,51,41,46,47,0,56,31,0,0,0,0,0,413
+126515001,Philadelphia City SD,SD,Philadelphia,7853,Olney HS East,F,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,104,84,61,0,338
+126515001,Philadelphia City SD,SD,Philadelphia,7853,Olney HS East,M,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,115,104,108,60,0,406
+126515001,Philadelphia City SD,SD,Philadelphia,7854,Olney HS West,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,128,113,75,102,0,418
+126515001,Philadelphia City SD,SD,Philadelphia,7854,Olney HS West,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,174,92,58,99,0,423
+126515001,Philadelphia City SD,SD,Philadelphia,6960,Overbrook Edu Ctr,F,0,0,0,0,0,0,0,0,0,10,15,21,17,23,15,0,18,24,0,0,0,0,0,143
+126515001,Philadelphia City SD,SD,Philadelphia,6960,Overbrook Edu Ctr,M,0,0,0,0,0,0,0,0,2,10,18,10,16,18,18,0,21,18,0,0,0,0,0,131
+126515001,Philadelphia City SD,SD,Philadelphia,7472,Overbrook Elementary School,F,0,0,13,0,0,0,0,0,16,22,26,26,24,18,0,0,0,0,0,0,0,0,0,145
+126515001,Philadelphia City SD,SD,Philadelphia,7472,Overbrook Elementary School,M,0,0,22,0,0,0,0,0,24,21,18,25,28,21,0,0,0,0,0,0,0,0,0,159
+126515001,Philadelphia City SD,SD,Philadelphia,3857,Overbrook HS,F,0,0,17,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151,201,178,191,0,738
+126515001,Philadelphia City SD,SD,Philadelphia,3857,Overbrook HS,M,0,0,21,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,194,248,195,164,0,822
+126515001,Philadelphia City SD,SD,Philadelphia,6548,Parkway Northwest,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,45,42,56,28,0,171
+126515001,Philadelphia City SD,SD,Philadelphia,6548,Parkway Northwest,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,34,20,25,23,0,102
+126515001,Philadelphia City SD,SD,Philadelphia,7808,Parkway West,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,46,40,57,0,179
+126515001,Philadelphia City SD,SD,Philadelphia,7808,Parkway West,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,26,30,26,27,0,109
+126515001,Philadelphia City SD,SD,Philadelphia,7782,Parkway-Center City,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,53,68,61,62,0,244
+126515001,Philadelphia City SD,SD,Philadelphia,7782,Parkway-Center City,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,50,45,24,25,0,144
+126515001,Philadelphia City SD,SD,Philadelphia,3721,Pastorius Francis P Sch,F,0,0,0,0,0,0,0,0,35,38,31,27,33,23,34,0,30,32,0,0,0,0,0,283
+126515001,Philadelphia City SD,SD,Philadelphia,3721,Pastorius Francis P Sch,M,0,0,0,0,0,0,0,0,32,38,28,25,36,41,40,0,33,36,0,0,0,0,0,309
+126515001,Philadelphia City SD,SD,Philadelphia,3613,Patterson John M Sch,F,0,0,34,0,0,0,0,0,66,71,68,62,62,0,0,0,0,0,0,0,0,0,0,363
+126515001,Philadelphia City SD,SD,Philadelphia,3613,Patterson John M Sch,M,0,0,27,0,0,0,0,0,66,73,71,70,77,0,0,0,0,0,0,0,0,0,0,384
+126515001,Philadelphia City SD,SD,Philadelphia,7780,Paul Robeson HS for Human Services,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,35,60,57,43,0,195
+126515001,Philadelphia City SD,SD,Philadelphia,7780,Paul Robeson HS for Human Services,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,19,19,25,0,90
+126515001,Philadelphia City SD,SD,Philadelphia,3675,Peirce Thomas M Sch,F,0,0,35,0,0,0,0,0,22,42,29,25,32,26,19,0,0,0,0,0,0,0,0,230
+126515001,Philadelphia City SD,SD,Philadelphia,3675,Peirce Thomas M Sch,M,0,0,27,0,0,0,0,0,30,33,35,28,21,25,25,0,0,0,0,0,0,0,0,224
+126515001,Philadelphia City SD,SD,Philadelphia,7706,Penn Alexander Sch,F,0,0,20,0,0,0,0,0,24,49,46,34,42,29,26,0,19,19,0,0,0,0,0,308
+126515001,Philadelphia City SD,SD,Philadelphia,7706,Penn Alexander Sch,M,0,0,18,0,0,0,0,0,36,45,40,42,38,23,29,0,25,22,0,0,0,0,0,318
+126515001,Philadelphia City SD,SD,Philadelphia,7244,Penn Treaty MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,0,59,95,0,0,0,0,0,171
+126515001,Philadelphia City SD,SD,Philadelphia,7244,Penn Treaty MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,94,111,0,0,0,0,0,235
+126515001,Philadelphia City SD,SD,Philadelphia,3722,Pennell Joseph Sch,F,0,0,21,0,0,0,0,0,27,29,26,34,22,23,20,0,0,0,0,0,0,0,0,202
+126515001,Philadelphia City SD,SD,Philadelphia,3722,Pennell Joseph Sch,M,0,0,17,0,0,0,0,0,37,40,34,46,28,25,43,0,0,0,0,0,0,0,0,270
+126515001,Philadelphia City SD,SD,Philadelphia,6539,Pennypacker Samuel Sch,F,0,0,22,0,0,0,0,0,21,32,37,27,36,36,30,0,0,0,0,0,0,0,0,241
+126515001,Philadelphia City SD,SD,Philadelphia,6539,Pennypacker Samuel Sch,M,0,0,17,0,0,0,0,0,42,39,32,43,43,37,26,0,0,0,0,0,0,0,0,279
+126515001,Philadelphia City SD,SD,Philadelphia,3616,Penrose Sch,F,0,0,0,0,0,0,0,0,37,43,35,33,30,31,34,0,33,21,0,0,0,0,0,297
+126515001,Philadelphia City SD,SD,Philadelphia,3616,Penrose Sch,M,0,0,0,0,0,0,0,0,33,38,37,39,38,44,29,0,25,25,0,0,0,0,0,308
+126515001,Philadelphia City SD,SD,Philadelphia,6821,Pepper George MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,34,55,0,70,91,0,0,0,0,0,250
+126515001,Philadelphia City SD,SD,Philadelphia,6821,Pepper George MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,37,71,0,100,98,0,0,0,0,0,306
+126515001,Philadelphia City SD,SD,Philadelphia,9999,Philadelphia City SD,F,0,0,"2,377",0,0,0,0,0,1,0,0,1,5,9,29,0,48,107,439,586,515,468,4,"4,589"
+126515001,Philadelphia City SD,SD,Philadelphia,9999,Philadelphia City SD,M,0,0,"2,743",0,0,0,0,0,1,0,0,5,34,63,79,0,121,182,486,694,622,534,82,"5,646"
+126515001,Philadelphia City SD,SD,Philadelphia,7814,Philadelphia HS for Business & Tech,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,19,23,11,0,70
+126515001,Philadelphia City SD,SD,Philadelphia,7814,Philadelphia HS for Business & Tech,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,17,20,19,0,69
+126515001,Philadelphia City SD,SD,Philadelphia,8120,Philadelphia Learning Academy - North,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,8,19,35,21,26,0,109
+126515001,Philadelphia City SD,SD,Philadelphia,8120,Philadelphia Learning Academy - North,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,18,36,68,35,45,0,203
+126515001,Philadelphia City SD,SD,Philadelphia,8121,Philadelphia Learning Academy - South,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,2,11,31,26,16,0,88
+126515001,Philadelphia City SD,SD,Philadelphia,8121,Philadelphia Learning Academy - South,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,4,21,50,39,37,0,153
+126515001,Philadelphia City SD,SD,Philadelphia,7850,Philadelphia Military Acad at Elverson,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,32,19,23,0,106
+126515001,Philadelphia City SD,SD,Philadelphia,7850,Philadelphia Military Acad at Elverson,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,33,35,22,0,139
+126515001,Philadelphia City SD,SD,Philadelphia,7812,Philadelphia Military Acad at Leeds,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,37,29,22,37,0,125
+126515001,Philadelphia City SD,SD,Philadelphia,7812,Philadelphia Military Acad at Leeds,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,66,54,36,32,0,188
+126515001,Philadelphia City SD,SD,Philadelphia,3801,Pollock Robert B Sch,F,0,0,7,0,0,0,0,0,63,55,47,50,44,40,52,0,0,0,0,0,0,0,0,358
+126515001,Philadelphia City SD,SD,Philadelphia,3801,Pollock Robert B Sch,M,0,0,11,0,0,0,0,0,58,74,49,55,61,44,45,0,0,0,0,0,0,0,0,397
+126515001,Philadelphia City SD,SD,Philadelphia,5121,Potter-Thomas Sch,F,0,0,19,0,0,0,0,0,22,24,28,21,17,20,23,0,25,29,0,0,0,0,0,228
+126515001,Philadelphia City SD,SD,Philadelphia,5121,Potter-Thomas Sch,M,0,0,18,0,0,0,0,0,19,35,27,21,24,19,17,0,22,19,0,0,0,0,0,221
+126515001,Philadelphia City SD,SD,Philadelphia,3783,Powel Samuel Sch,F,0,0,0,0,0,0,0,0,23,30,25,28,22,0,0,0,0,0,0,0,0,0,0,128
+126515001,Philadelphia City SD,SD,Philadelphia,3783,Powel Samuel Sch,M,0,0,0,0,0,0,0,0,26,16,25,21,21,0,0,0,0,0,0,0,0,0,0,109
+126515001,Philadelphia City SD,SD,Philadelphia,6540,Pratt Anna B Sch,F,0,0,21,0,0,0,0,0,36,33,36,29,23,18,19,0,0,0,0,0,0,0,0,215
+126515001,Philadelphia City SD,SD,Philadelphia,6540,Pratt Anna B Sch,M,0,0,17,0,0,0,0,0,18,39,39,28,14,25,18,0,0,0,0,0,0,0,0,198
+126515001,Philadelphia City SD,SD,Philadelphia,6765,Prince Hall,F,0,0,8,0,0,0,0,0,37,37,31,25,33,41,0,0,0,0,0,0,0,0,0,212
+126515001,Philadelphia City SD,SD,Philadelphia,6765,Prince Hall,M,0,0,11,0,0,0,0,0,38,48,40,34,37,37,0,0,0,0,0,0,0,0,0,245
+126515001,Philadelphia City SD,SD,Philadelphia,7813,"Randolph, A. Philip AVT HS",F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,29,35,36,54,0,154
+126515001,Philadelphia City SD,SD,Philadelphia,7813,"Randolph, A. Philip AVT HS",M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,38,70,43,47,0,198
+126515001,Philadelphia City SD,SD,Philadelphia,3632,Reynolds Gen John F Sch,F,0,0,21,0,0,0,0,0,21,15,22,21,17,21,16,0,23,12,0,0,0,0,0,189
+126515001,Philadelphia City SD,SD,Philadelphia,3632,Reynolds Gen John F Sch,M,0,0,19,0,0,0,0,0,21,39,33,27,20,17,16,0,16,13,0,0,0,0,0,221
+126515001,Philadelphia City SD,SD,Philadelphia,3771,Rhawnhurst Sch,F,0,0,12,0,0,0,0,0,35,48,48,35,40,38,0,0,0,0,0,0,0,0,0,256
+126515001,Philadelphia City SD,SD,Philadelphia,3771,Rhawnhurst Sch,M,0,0,6,0,0,0,0,0,53,62,38,44,35,43,0,0,0,0,0,0,0,0,0,281
+126515001,Philadelphia City SD,SD,Philadelphia,3614,Rhoads James Sch,F,0,0,0,0,0,0,0,0,43,32,37,32,36,30,28,0,35,21,0,0,0,0,0,294
+126515001,Philadelphia City SD,SD,Philadelphia,3614,Rhoads James Sch,M,0,0,0,0,0,0,0,0,36,42,29,37,40,46,34,0,37,27,0,0,0,0,0,328
+126515001,Philadelphia City SD,SD,Philadelphia,6522,Rhodes E Washington MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,75,70,120,105,86,58,0,514
+126515001,Philadelphia City SD,SD,Philadelphia,3701,Richmond Sch,F,0,0,0,0,0,0,0,0,56,64,57,53,37,53,0,0,0,0,0,0,0,0,0,320
+126515001,Philadelphia City SD,SD,Philadelphia,3701,Richmond Sch,M,0,0,0,0,0,0,0,0,69,64,58,59,68,47,0,0,0,0,0,0,0,0,0,365
+126515001,Philadelphia City SD,SD,Philadelphia,3824,Roosevelt Theodore MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,108,0,0,0,0,0,171
+126515001,Philadelphia City SD,SD,Philadelphia,3824,Roosevelt Theodore MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,89,107,0,0,0,0,0,196
+126515001,Philadelphia City SD,SD,Philadelphia,3724,Rowen William Sch,F,0,0,0,0,0,0,0,0,31,39,44,29,42,36,0,0,0,0,0,0,0,0,0,221
+126515001,Philadelphia City SD,SD,Philadelphia,3724,Rowen William Sch,M,0,0,0,0,0,0,0,0,25,39,45,30,41,47,0,0,0,0,0,0,0,0,0,227
+126515001,Philadelphia City SD,SD,Philadelphia,3844,Roxborough HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,95,61,63,67,0,286
+126515001,Philadelphia City SD,SD,Philadelphia,3844,Roxborough HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,78,96,92,0,365
+126515001,Philadelphia City SD,SD,Philadelphia,3861,Saul W B Agricultural School,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,99,107,65,80,0,351
+126515001,Philadelphia City SD,SD,Philadelphia,3861,Saul W B Agricultural School,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,48,50,59,0,220
+126515001,Philadelphia City SD,SD,Philadelphia,7245,Sayre William L MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,74,87,82,78,0,321
+126515001,Philadelphia City SD,SD,Philadelphia,7245,Sayre William L MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,75,85,60,0,305
+126515001,Philadelphia City SD,SD,Philadelphia,7903,School of the Future,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,42,61,55,44,0,202
+126515001,Philadelphia City SD,SD,Philadelphia,7903,School of the Future,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,44,56,47,0,202
+126515001,Philadelphia City SD,SD,Philadelphia,7906,Science Leadership Academy,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,70,63,71,0,264
+126515001,Philadelphia City SD,SD,Philadelphia,7906,Science Leadership Academy,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,58,50,63,49,0,220
+126515001,Philadelphia City SD,SD,Philadelphia,3653,Sharswood George Sch,F,0,0,20,0,0,0,0,0,33,25,27,20,25,28,23,0,26,27,0,0,0,0,0,254
+126515001,Philadelphia City SD,SD,Philadelphia,3653,Sharswood George Sch,M,0,0,18,0,0,0,0,0,35,38,27,34,28,39,37,0,25,33,0,0,0,0,0,314
+126515001,Philadelphia City SD,SD,Philadelphia,7246,Shaw Anna H MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,49,60,0,0,0,0,0,109
+126515001,Philadelphia City SD,SD,Philadelphia,7246,Shaw Anna H MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,68,62,0,0,0,0,0,130
+126515001,Philadelphia City SD,SD,Philadelphia,3725,Shawmont Sch,F,0,0,16,0,0,0,0,0,31,25,31,25,38,31,41,0,32,27,0,0,0,0,0,297
+126515001,Philadelphia City SD,SD,Philadelphia,3725,Shawmont Sch,M,0,0,4,0,0,0,0,0,30,44,36,32,31,34,28,0,28,45,0,0,0,0,0,312
+126515001,Philadelphia City SD,SD,Philadelphia,3702,Sheppard Isaac Sch,F,0,0,0,0,0,0,0,0,25,33,26,28,28,0,0,0,0,0,0,0,0,0,0,140
+126515001,Philadelphia City SD,SD,Philadelphia,3702,Sheppard Isaac Sch,M,0,0,0,0,0,0,0,0,39,31,28,23,27,0,0,0,0,0,0,0,0,0,0,148
+126515001,Philadelphia City SD,SD,Philadelphia,3800,Sheridan Sch,F,0,0,0,0,0,0,0,0,82,87,68,61,59,0,0,0,0,0,0,0,0,0,0,357
+126515001,Philadelphia City SD,SD,Philadelphia,3800,Sheridan Sch,M,0,0,0,0,0,0,0,0,87,115,66,75,75,0,0,0,0,0,0,0,0,0,0,418
+126515001,Philadelphia City SD,SD,Philadelphia,7809,Sheridan West,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,30,0,44,34,0,0,0,0,0,108
+126515001,Philadelphia City SD,SD,Philadelphia,7809,Sheridan West,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,52,32,0,0,0,0,0,124
+126515001,Philadelphia City SD,SD,Philadelphia,3634,Smith Walter G Sch,F,0,0,10,0,0,0,0,0,26,22,25,30,19,22,17,0,21,22,0,0,0,0,0,214
+126515001,Philadelphia City SD,SD,Philadelphia,3634,Smith Walter G Sch,M,0,0,8,0,0,0,0,0,25,26,34,23,18,17,22,0,25,25,0,0,0,0,0,223
+126515001,Philadelphia City SD,SD,Philadelphia,3773,Solis-Cohen Solomon Sch,F,0,0,10,0,0,0,0,0,83,87,77,68,73,79,73,0,0,0,0,0,0,0,0,550
+126515001,Philadelphia City SD,SD,Philadelphia,3773,Solis-Cohen Solomon Sch,M,0,0,10,0,0,0,0,0,93,89,91,91,89,82,79,0,0,0,0,0,0,0,0,624
+126515001,Philadelphia City SD,SD,Philadelphia,3859,South Philadelphia HS,F,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,77,95,89,131,0,410
+126515001,Philadelphia City SD,SD,Philadelphia,3859,South Philadelphia HS,M,0,0,18,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,112,136,107,134,0,507
+126515001,Philadelphia City SD,SD,Philadelphia,3654,Southwark Sch,F,0,0,0,0,0,0,0,0,35,22,25,24,30,27,19,0,34,35,0,0,0,0,0,251
+126515001,Philadelphia City SD,SD,Philadelphia,3654,Southwark Sch,M,0,0,0,0,0,0,0,0,25,24,29,26,27,20,21,0,39,53,0,0,0,0,0,264
+126515001,Philadelphia City SD,SD,Philadelphia,3655,Spring Garden Sch,F,0,0,0,0,0,0,0,0,13,12,20,20,25,16,13,0,24,13,0,0,0,0,0,156
+126515001,Philadelphia City SD,SD,Philadelphia,3655,Spring Garden Sch,M,0,0,0,0,0,0,0,0,18,18,17,23,16,8,12,0,20,11,0,0,0,0,0,143
+126515001,Philadelphia City SD,SD,Philadelphia,7234,Spruance Gilbert Sch,F,0,0,12,0,0,0,0,0,74,62,82,78,71,65,58,0,76,59,0,0,0,0,0,637
+126515001,Philadelphia City SD,SD,Philadelphia,7234,Spruance Gilbert Sch,M,0,0,8,0,0,0,0,0,77,77,67,83,87,87,76,0,84,71,0,0,0,0,0,717
+126515001,Philadelphia City SD,SD,Philadelphia,3635,Stanton Edwin M Sch,F,0,0,10,0,0,0,0,0,11,9,15,14,8,15,10,0,13,13,0,0,0,0,0,118
+126515001,Philadelphia City SD,SD,Philadelphia,3635,Stanton Edwin M Sch,M,0,0,10,0,0,0,0,0,22,14,14,15,8,14,7,0,8,14,0,0,0,0,0,126
+126515001,Philadelphia City SD,SD,Philadelphia,6541,Stanton M Hall Sch,F,0,0,29,0,0,0,0,0,26,24,18,31,21,16,22,0,12,10,0,0,0,0,0,209
+126515001,Philadelphia City SD,SD,Philadelphia,6541,Stanton M Hall Sch,M,0,0,27,0,0,0,0,0,31,28,28,23,22,26,15,0,27,12,0,0,0,0,0,239
+126515001,Philadelphia City SD,SD,Philadelphia,4963,Stearne Allen M Sch,F,0,0,23,0,0,0,0,0,30,37,38,30,29,30,32,0,0,0,0,0,0,0,0,249
+126515001,Philadelphia City SD,SD,Philadelphia,4963,Stearne Allen M Sch,M,0,0,13,0,0,0,0,0,45,33,42,52,27,26,32,0,0,0,0,0,0,0,0,270
+126515001,Philadelphia City SD,SD,Philadelphia,3727,Steel Edward Sch,F,0,0,20,0,0,0,0,0,28,40,34,38,32,33,36,0,32,16,0,0,0,0,0,309
+126515001,Philadelphia City SD,SD,Philadelphia,3727,Steel Edward Sch,M,0,0,18,0,0,0,0,0,33,33,29,39,35,36,30,0,31,20,0,0,0,0,0,304
+126515001,Philadelphia City SD,SD,Philadelphia,7255,Strawberry Mansion HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,33,63,59,69,0,224
+126515001,Philadelphia City SD,SD,Philadelphia,7255,Strawberry Mansion HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,55,52,56,0,207
+126515001,Philadelphia City SD,SD,Philadelphia,3753,Sullivan James J Sch,F,0,0,0,0,0,0,0,0,46,48,58,43,49,49,0,0,0,0,0,0,0,0,0,293
+126515001,Philadelphia City SD,SD,Philadelphia,3753,Sullivan James J Sch,M,0,0,0,0,0,0,0,0,55,54,79,63,47,46,0,0,0,0,0,0,0,0,0,344
+126515001,Philadelphia City SD,SD,Philadelphia,7072,Swenson Arts & Technology HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,63,74,78,87,0,302
+126515001,Philadelphia City SD,SD,Philadelphia,7072,Swenson Arts & Technology HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,147,112,115,119,0,493
+126515001,Philadelphia City SD,SD,Philadelphia,3657,Taggart John H Sch,F,0,0,17,0,0,0,0,0,21,28,21,28,20,24,23,0,25,18,0,0,0,0,0,225
+126515001,Philadelphia City SD,SD,Philadelphia,3657,Taggart John H Sch,M,0,0,23,0,0,0,0,0,31,32,25,32,24,35,32,0,26,29,0,0,0,0,0,289
+126515001,Philadelphia City SD,SD,Philadelphia,3755,Taylor Bayard Sch,F,0,0,0,0,0,0,0,0,53,40,42,50,46,42,0,0,0,0,0,0,0,0,0,273
+126515001,Philadelphia City SD,SD,Philadelphia,3755,Taylor Bayard Sch,M,0,0,0,0,0,0,0,0,50,58,55,51,43,45,0,0,0,0,0,0,0,0,0,302
+126515001,Philadelphia City SD,SD,Philadelphia,3832,Tilden William T MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,0,66,83,0,0,0,0,0,220
+126515001,Philadelphia City SD,SD,Philadelphia,3832,Tilden William T MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,72,0,68,58,0,0,0,0,0,198
+126515001,Philadelphia City SD,SD,Philadelphia,6521,Turner John P MS,F,0,0,19,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19
+126515001,Philadelphia City SD,SD,Philadelphia,6521,Turner John P MS,M,0,0,20,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,20
+126515001,Philadelphia City SD,SD,Philadelphia,6523,University City HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,83,65,81,86,0,315
+126515001,Philadelphia City SD,SD,Philadelphia,6523,University City HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,103,62,110,67,0,342
+126515001,Philadelphia City SD,SD,Philadelphia,3658,Vare Abigail Sch,F,0,0,19,0,0,0,0,0,20,23,9,19,23,20,9,0,13,12,0,0,0,0,0,167
+126515001,Philadelphia City SD,SD,Philadelphia,3658,Vare Abigail Sch,M,0,0,30,0,0,0,0,0,28,16,24,22,20,14,17,0,19,14,0,0,0,0,0,204
+126515001,Philadelphia City SD,SD,Philadelphia,7251,Vare Edwin H MS,F,0,0,19,0,0,0,0,0,0,0,0,0,0,28,43,0,44,37,0,0,0,0,0,171
+126515001,Philadelphia City SD,SD,Philadelphia,7251,Vare Edwin H MS,M,0,0,17,0,0,0,0,0,0,0,0,0,0,31,47,0,56,44,0,0,0,0,0,195
+126515001,Philadelphia City SD,SD,Philadelphia,7252,Vaux Roberts HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,43,49,41,35,0,168
+126515001,Philadelphia City SD,SD,Philadelphia,7252,Vaux Roberts HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,57,50,37,33,0,177
+126515001,Philadelphia City SD,SD,Philadelphia,3835,Wagner Gen Louis MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,55,0,93,101,0,0,0,0,0,249
+126515001,Philadelphia City SD,SD,Philadelphia,3835,Wagner Gen Louis MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,85,0,114,112,0,0,0,0,0,311
+126515001,Philadelphia City SD,SD,Philadelphia,7225,Waring Laura W Sch,F,0,0,23,0,0,0,0,0,17,24,19,17,14,11,11,0,5,12,0,0,0,0,0,153
+126515001,Philadelphia City SD,SD,Philadelphia,7225,Waring Laura W Sch,M,0,0,31,0,0,0,0,0,25,14,18,11,15,12,15,0,15,7,0,0,0,0,0,163
+126515001,Philadelphia City SD,SD,Philadelphia,6527,Washington George HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,215,233,219,246,0,913
+126515001,Philadelphia City SD,SD,Philadelphia,6527,Washington George HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,301,312,274,240,0,"1,127"
+126515001,Philadelphia City SD,SD,Philadelphia,3659,Washington George Sch,F,0,0,19,0,0,0,0,0,11,13,17,12,15,15,16,0,26,17,0,0,0,0,0,161
+126515001,Philadelphia City SD,SD,Philadelphia,3659,Washington George Sch,M,0,0,14,0,0,0,0,0,20,10,11,16,16,15,26,0,19,17,0,0,0,0,0,164
+126515001,Philadelphia City SD,SD,Philadelphia,7663,Washington Grover Jr Sch,F,0,0,0,0,0,0,0,0,0,0,0,0,0,91,104,0,86,103,0,0,0,0,0,384
+126515001,Philadelphia City SD,SD,Philadelphia,7663,Washington Grover Jr Sch,M,0,0,0,0,0,0,0,0,0,0,0,0,0,71,98,0,98,110,0,0,0,0,0,377
+126515001,Philadelphia City SD,SD,Philadelphia,3615,Washington Martha Sch,F,0,0,0,0,0,0,0,0,12,24,17,22,22,20,18,0,24,20,0,0,0,0,0,179
+126515001,Philadelphia City SD,SD,Philadelphia,3615,Washington Martha Sch,M,0,0,0,0,0,0,0,0,25,25,23,23,28,24,22,0,12,13,0,0,0,0,0,195
+126515001,Philadelphia City SD,SD,Philadelphia,5124,Webster Sch,F,0,0,20,0,0,0,0,0,71,89,97,64,71,68,0,0,0,0,0,0,0,0,0,480
+126515001,Philadelphia City SD,SD,Philadelphia,5124,Webster Sch,M,0,0,19,0,0,0,0,0,59,110,92,70,88,79,0,0,0,0,0,0,0,0,0,517
+126515001,Philadelphia City SD,SD,Philadelphia,3703,Welsh John Sch,F,0,0,0,0,0,0,0,0,32,37,33,38,41,26,35,0,29,25,0,0,0,0,0,296
+126515001,Philadelphia City SD,SD,Philadelphia,3703,Welsh John Sch,M,0,0,0,0,0,0,0,0,39,36,39,43,31,31,28,0,39,29,0,0,0,0,0,315
+126515001,Philadelphia City SD,SD,Philadelphia,3860,West Philadelphia HS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,92,99,93,0,376
+126515001,Philadelphia City SD,SD,Philadelphia,3860,West Philadelphia HS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,114,132,105,112,0,463
+126515001,Philadelphia City SD,SD,Philadelphia,3681,Whittier John G Sch,F,0,0,8,0,0,0,0,0,33,38,44,34,28,31,30,0,0,0,0,0,0,0,0,246
+126515001,Philadelphia City SD,SD,Philadelphia,3681,Whittier John G Sch,M,0,0,6,0,0,0,0,0,29,38,31,33,46,38,33,0,0,0,0,0,0,0,0,254
+126515001,Philadelphia City SD,SD,Philadelphia,3728,Widener Memorial Sch,F,0,0,0,0,0,0,0,0,5,4,2,3,1,6,4,0,3,7,5,7,10,15,0,72
+126515001,Philadelphia City SD,SD,Philadelphia,3728,Widener Memorial Sch,M,0,0,0,0,0,0,0,0,2,7,4,5,7,4,8,0,8,4,8,7,11,34,0,109
+126515001,Philadelphia City SD,SD,Philadelphia,6544,Willard Frances E Sch,F,0,0,63,0,0,0,0,0,81,96,76,74,60,0,0,0,0,0,0,0,0,0,0,450
+126515001,Philadelphia City SD,SD,Philadelphia,6544,Willard Frances E Sch,M,0,0,56,0,0,0,0,0,89,84,75,81,78,0,0,0,0,0,0,0,0,0,0,463
+126515001,Philadelphia City SD,SD,Philadelphia,3775,Wilson Alexander Sch,F,0,0,30,0,0,0,0,0,14,17,10,16,18,10,14,0,0,0,0,0,0,0,0,129
+126515001,Philadelphia City SD,SD,Philadelphia,3775,Wilson Alexander Sch,M,0,0,32,0,0,0,0,0,19,25,19,22,16,12,20,0,0,0,0,0,0,0,0,165
+126515001,Philadelphia City SD,SD,Philadelphia,7253,Wilson Woodrow MS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,150,0,205,238,0,0,0,0,0,593
+126515001,Philadelphia City SD,SD,Philadelphia,7253,Wilson Woodrow MS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,163,0,234,254,0,0,0,0,0,651
+126515001,Philadelphia City SD,SD,Philadelphia,3731,Wister John Sch,F,0,0,5,0,0,0,0,0,28,30,25,23,27,13,24,0,0,0,0,0,0,0,0,175
+126515001,Philadelphia City SD,SD,Philadelphia,3731,Wister John Sch,M,0,0,10,0,0,0,0,0,38,30,29,29,32,33,21,0,0,0,0,0,0,0,0,222
+126515001,Philadelphia City SD,SD,Philadelphia,5188,Wright Richard R Sch,F,0,0,30,0,0,0,0,0,44,26,25,28,22,18,26,0,0,0,0,0,0,0,0,219
+126515001,Philadelphia City SD,SD,Philadelphia,5188,Wright Richard R Sch,M,0,0,26,0,0,0,0,0,33,38,35,30,33,35,34,0,0,0,0,0,0,0,0,264
+126515001,Philadelphia City SD,SD,Philadelphia,7233,Ziegler William H Sch,F,0,0,0,0,0,0,0,0,26,25,28,30,32,24,35,0,30,34,0,0,0,0,0,264
+126515001,Philadelphia City SD,SD,Philadelphia,7233,Ziegler William H Sch,M,0,0,0,0,0,0,0,0,32,39,33,24,27,35,30,0,28,30,0,0,0,0,0,278
+126510009,Philadelphia Electrical & Tech CHS,CS,Philadelphia,7737,Philadelphia Electrical & Tech CHS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,52,77,64,70,0,263
+126510009,Philadelphia Electrical & Tech CHS,CS,Philadelphia,7737,Philadelphia Electrical & Tech CHS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,92,96,66,90,0,344
+126512850,Philadelphia Harambee Inst CS,CS,Philadelphia,7511,Philadelphia Harambee Inst CS,F,0,0,0,0,0,0,0,0,19,27,21,26,25,31,24,0,36,26,0,0,0,0,0,235
+126512850,Philadelphia Harambee Inst CS,CS,Philadelphia,7511,Philadelphia Harambee Inst CS,M,0,0,0,0,0,0,0,0,20,23,24,37,32,20,29,0,12,21,0,0,0,0,0,218
+126510016,Philadelphia Montessori CS,CS,Philadelphia,7828,Philadelphia Montessori CS,F,0,0,0,0,0,0,0,0,1,12,10,11,10,13,12,0,0,0,0,0,0,0,0,69
+126510016,Philadelphia Montessori CS,CS,Philadelphia,7828,Philadelphia Montessori CS,M,0,0,0,0,0,0,0,0,4,10,17,9,17,12,7,0,0,0,0,0,0,0,0,76
+126513400,Philadelphia Performing Arts CS,CS,Philadelphia,7647,Philadelphia Performing Arts CS,F,0,0,0,0,0,0,0,0,50,39,47,58,26,46,45,0,34,28,0,0,0,0,0,373
+126513400,Philadelphia Performing Arts CS,CS,Philadelphia,7647,Philadelphia Performing Arts CS,M,0,0,0,0,0,0,0,0,32,41,31,18,31,27,23,0,22,19,0,0,0,0,0,244
+182514568,Planet Abacus CS,CS,Philadelphia,7979,Planet Abacus CS,F,0,0,0,0,0,0,0,0,41,29,32,28,24,28,15,0,13,0,0,0,0,0,0,210
+182514568,Planet Abacus CS,CS,Philadelphia,7979,Planet Abacus CS,M,0,0,0,0,0,0,0,0,31,30,32,29,12,14,14,0,7,0,0,0,0,0,0,169
+126512960,"Preparatory CS of Mathematics, Science,",CS,Philadelphia,7540,"Preparatory CS of Mathematics, Science,",F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,88,75,84,76,0,323
+126512960,"Preparatory CS of Mathematics, Science,",CS,Philadelphia,7540,"Preparatory CS of Mathematics, Science,",M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,96,71,63,50,0,280
+126510008,Richard Allen Preparatory CS,CS,Philadelphia,7684,Richard Allen Preparatory CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,46,48,0,49,55,0,0,0,0,0,198
+126510008,Richard Allen Preparatory CS,CS,Philadelphia,7684,Richard Allen Preparatory CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,46,62,0,60,50,0,0,0,0,0,218
+126510001,Russell Byers CS,CS,Philadelphia,7677,Russell Byers CS,F,0,0,0,0,0,21,0,0,20,38,26,29,29,20,26,0,0,0,0,0,0,0,0,209
+126510001,Russell Byers CS,CS,Philadelphia,7677,Russell Byers CS,M,0,0,0,0,0,21,0,0,28,35,22,19,19,26,38,0,0,0,0,0,0,0,0,208
+114514135,Sankofa Freedom Academy Charter School,CS,Philadelphia,8083,Sankofa Freedom Academy Charter School,F,0,0,0,0,0,0,0,0,20,20,23,18,30,26,0,0,0,0,25,25,0,0,0,187
+114514135,Sankofa Freedom Academy Charter School,CS,Philadelphia,8083,Sankofa Freedom Academy Charter School,M,0,0,0,0,0,0,0,0,25,25,26,38,26,24,0,0,0,0,25,24,0,0,0,213
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,7960,Southwest Leadership Academy CS,F,0,0,0,0,0,0,0,0,27,28,26,25,23,24,23,0,0,0,0,0,0,0,0,176
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,7960,Southwest Leadership Academy CS,M,0,0,0,0,0,0,0,0,24,25,26,27,25,24,21,0,0,0,0,0,0,0,0,172
+192518422,Tacony Academy Charter School,CS,Philadelphia,8126,Tacony Academy Charter School,F,0,0,0,0,0,0,0,0,27,31,26,36,40,42,0,0,0,0,50,0,0,0,0,252
+192518422,Tacony Academy Charter School,CS,Philadelphia,8126,Tacony Academy Charter School,M,0,0,0,0,0,0,0,0,42,48,50,45,39,34,0,0,0,0,51,0,0,0,0,309
+171510293,Truebright Science Academy CS,CS,Philadelphia,7983,Truebright Science Academy CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,26,55,40,34,21,0,208
+171510293,Truebright Science Academy CS,CS,Philadelphia,7983,Truebright Science Academy CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,13,24,40,27,25,13,0,142
+168513758,Universal Bluford Charter School,CS,Philadelphia,8145,Universal Bluford Charter School,F,0,0,0,0,0,0,0,0,51,34,39,39,44,30,31,0,0,0,0,0,0,0,0,268
+168513758,Universal Bluford Charter School,CS,Philadelphia,8145,Universal Bluford Charter School,M,0,0,0,0,0,0,0,0,49,42,48,40,36,39,35,0,0,0,0,0,0,0,0,289
+103519376,Universal Daroff Charter School,CS,Philadelphia,8146,Universal Daroff Charter School,F,0,0,0,0,0,0,0,0,27,44,35,39,30,32,31,0,20,23,0,0,0,0,0,281
+103519376,Universal Daroff Charter School,CS,Philadelphia,8146,Universal Daroff Charter School,M,0,0,0,0,0,0,0,0,39,35,52,38,35,39,32,0,36,29,0,0,0,0,0,335
+126513210,Universal Institute CS,CS,Philadelphia,7580,Universal Institute CS,F,0,0,0,0,0,0,0,0,40,42,34,46,31,39,37,0,34,44,0,0,0,0,0,347
+126513210,Universal Institute CS,CS,Philadelphia,7580,Universal Institute CS,M,0,0,0,0,0,0,0,0,33,32,41,31,45,30,32,0,31,25,0,0,0,0,0,300
+126513220,Wakisha CS,CS,Philadelphia,7581,Wakisha CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,48,0,53,62,0,0,0,0,0,163
+126513220,Wakisha CS,CS,Philadelphia,7581,Wakisha CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,31,0,66,71,0,0,0,0,0,168
+126513490,Walter D Palmer Leadership Learning Part,CS,Philadelphia,7674,Walter D Palmer Leadership Learning Part,F,0,0,0,0,0,0,0,0,61,54,53,36,36,35,32,0,29,29,29,31,28,15,0,468
+126513490,Walter D Palmer Leadership Learning Part,CS,Philadelphia,7674,Walter D Palmer Leadership Learning Part,M,0,0,0,0,0,0,0,0,36,37,45,39,23,33,22,0,21,32,25,28,22,29,0,392
+126513020,West Oak Lane CS,CS,Philadelphia,7548,West Oak Lane CS,F,0,0,0,0,0,0,0,0,52,31,45,49,44,33,30,0,24,24,0,0,0,0,0,332
+126513020,West Oak Lane CS,CS,Philadelphia,7548,West Oak Lane CS,M,0,0,0,0,0,0,0,0,71,72,54,49,39,36,34,0,23,25,0,0,0,0,0,403
+126510006,West Phila. Achievement CES,CS,Philadelphia,7722,West Phila. Achievement CES,F,0,0,0,0,0,0,0,0,47,43,38,35,28,28,0,0,0,0,0,0,0,0,0,219
+126510006,West Phila. Achievement CES,CS,Philadelphia,7722,West Phila. Achievement CES,M,0,0,0,0,0,0,0,0,34,28,31,40,35,30,0,0,0,0,0,0,0,0,0,198
+126510007,Wissahickon CS,CS,Philadelphia,7724,Wissahickon CS,F,0,0,0,0,0,0,0,0,27,26,18,20,24,25,25,0,26,21,0,0,0,0,0,212
+126510007,Wissahickon CS,CS,Philadelphia,7724,Wissahickon CS,M,0,0,0,0,0,0,0,0,17,20,30,28,24,23,23,0,20,22,0,0,0,0,0,207
+126512860,World Communications CS,CS,Philadelphia,7512,World Communications CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,12,0,29,36,76,61,50,35,0,299
+126512860,World Communications CS,CS,Philadelphia,7512,World Communications CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,0,26,30,53,25,42,24,0,211
+126513250,Young Scholars CS,CS,Philadelphia,7584,Young Scholars CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,41,0,41,41,0,0,0,0,0,123
+126513250,Young Scholars CS,CS,Philadelphia,7584,Young Scholars CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,40,0,43,32,0,0,0,0,0,115
+126518547,Young Scholars Frederick Douglas Charter,CS,Philadelphia,8150,Young Scholars Frederick Douglas Charter,F,0,0,0,0,0,0,0,0,44,46,44,37,36,39,30,0,27,25,0,0,0,0,0,328
+126518547,Young Scholars Frederick Douglas Charter,CS,Philadelphia,8150,Young Scholars Frederick Douglas Charter,M,0,0,0,0,0,0,0,0,48,39,39,45,38,32,37,0,24,25,0,0,0,0,0,327
+126512870,Youth Build Phila CS,CS,Philadelphia,7513,Youth Build Phila CS,F,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,145,0,145
+126512870,Youth Build Phila CS,CS,Philadelphia,7513,Youth Build Phila CS,M,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,98,0,98
