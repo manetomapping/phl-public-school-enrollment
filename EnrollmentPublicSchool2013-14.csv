@@ -1,0 +1,437 @@
+AUN,LEA Name,LEA Type,County,Race,Year,PKA,PKP,PKF,K4A,K4P,K4F,K5A,K5P,K5F,001,002,003,004,005,006,007,008,009,010,011,012,Total
+126514368,ACT Academy Cyber CS,CS,Philadelphia,Black or African American,2013_26,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,25,38,42,33,138
+126514368,ACT Academy Cyber CS,CS,Philadelphia,Multi-Racial,2013_27,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*
+126514368,ACT Academy Cyber CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),2013_28,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,*
+126514368,ACT Academy Cyber CS,CS,Philadelphia,White,2013_29,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,0,12
+168518013,ARISE Academy Charter High School,CS,Philadelphia,Asian,2013_31,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
+168518013,ARISE Academy Charter High School,CS,Philadelphia,Black or African American,2013_32,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,26,19,30,92
+168518013,ARISE Academy Charter High School,CS,Philadelphia,Hispanic,2013_33,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*
+168518013,ARISE Academy Charter High School,CS,Philadelphia,White,2013_34,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,*
+181519176,ASPIRA Bilingual Cyber Charter School,CS,Philadelphia,Black or African American,2013_35,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,23
+181519176,ASPIRA Bilingual Cyber Charter School,CS,Philadelphia,Hispanic,2013_36,0,0,0,0,0,0,0,0,*,*,0,*,*,*,11,*,13,22,24,19,19,125
+181519176,ASPIRA Bilingual Cyber Charter School,CS,Philadelphia,White,2013_37,0,0,0,0,0,0,0,0,*,0,0,*,0,0,0,0,0,0,0,0,0,*
+126510015,Ad Prima CS,CS,Philadelphia,Black or African American,2013_62,0,0,0,0,0,0,0,0,60,69,55,71,51,37,27,34,23,0,0,0,0,427
+126510015,Ad Prima CS,CS,Philadelphia,Hispanic,2013_63,0,0,0,0,0,0,0,0,*,13,*,*,10,*,*,*,0,0,0,0,0,48
+126510015,Ad Prima CS,CS,Philadelphia,Multi-Racial,2013_64,0,0,0,0,0,0,0,0,10,10,*,*,*,*,*,*,*,0,0,0,0,52
+126510015,Ad Prima CS,CS,Philadelphia,White,2013_65,0,0,0,0,0,0,0,0,*,*,*,*,*,*,0,0,0,0,0,0,0,12
+126512990,Alliance for Progress CS,CS,Philadelphia,Asian,2013_114,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,0,*
+126512990,Alliance for Progress CS,CS,Philadelphia,Black or African American,2013_115,0,0,0,0,0,0,0,0,55,49,50,52,48,51,49,41,23,0,0,0,0,418
+126512990,Alliance for Progress CS,CS,Philadelphia,Hispanic,2013_116,0,0,0,0,0,0,0,0,0,*,*,0,0,*,*,*,*,0,0,0,0,10
+126512990,Alliance for Progress CS,CS,Philadelphia,Multi-Racial,2013_117,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,*
+126512990,Alliance for Progress CS,CS,Philadelphia,White,2013_118,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,*
+104510394,Antonia Pantoja Community Charter School,CS,Philadelphia,Black or African American,2013_143,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,0,0,0,0,0,18
+104510394,Antonia Pantoja Community Charter School,CS,Philadelphia,Hispanic,2013_144,0,0,0,0,0,0,0,0,65,63,81,85,84,123,61,85,53,0,0,0,0,700
+104510394,Antonia Pantoja Community Charter School,CS,Philadelphia,White,2013_145,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,0,*,0,0,0,0,*
+126513070,Belmont Academy Charter School,CS,Philadelphia,Black or African American,,0,0,14,0,0,0,0,0,96,0,0,0,0,0,0,0,0,0,0,0,0,110
+126513070,Belmont Academy Charter School,CS,Philadelphia,Hispanic,,0,0,*,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+126513070,Belmont Academy Charter School,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+126510010,Belmont Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,0,0,0,*
+126510010,Belmont Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,77,85,68,74,63,64,60,31,0,0,0,0,522
+126510010,Belmont Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,*,0,*,*,0,*,0,0,0,0,0,0,*
+126510010,Belmont Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,*
+126519476,Birney Preparatory Academy,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,0,0,0,0,16
+126519476,Birney Preparatory Academy,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,95,90,85,78,69,62,69,66,63,0,0,0,0,677
+126519476,Birney Preparatory Academy,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,0,0,0,0,31
+126519476,Birney Preparatory Academy,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+126519476,Birney Preparatory Academy,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,*,0,0,0,*,0,*,0,0,0,0,0,*
+185515523,Boys Latin of Philadelphia CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*
+185515523,Boys Latin of Philadelphia CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,151,0,0,151,129,113,107,651
+185515523,Boys Latin of Philadelphia CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*,*,*
+185515523,Boys Latin of Philadelphia CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*
+185515523,Boys Latin of Philadelphia CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*
+126513190,Charter High School for Architecture and,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*
+126513190,Charter High School for Architecture and,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,10,*,*,18
+126513190,Charter High School for Architecture and,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,139,126,134,101,500
+126513190,Charter High School for Architecture and,CS,Philadelphia,Hispanic,,*,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,11,12,*,13,45
+126513190,Charter High School for Architecture and,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*
+126513190,Charter High School for Architecture and,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
+126513190,Charter High School for Architecture and,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,20
+126513160,Christopher Columbus CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,11,10,*,12,11,13,*,11,*,0,0,0,0,87
+126513160,Christopher Columbus CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,18,13,13,20,16,27,22,28,27,0,0,0,0,184
+126513160,Christopher Columbus CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,11,*,*,*,*,*,0,0,0,0,61
+126513160,Christopher Columbus CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,0,*,0,0,0,0,0,32
+126513160,Christopher Columbus CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,49,56,57,44,50,42,46,40,46,0,0,0,0,430
+126512840,Community Academy of Philadelphia CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,0,*,*,0,*,*,*,*,*,*,*,*,21
+126512840,Community Academy of Philadelphia CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,*,*,12,13,12,11,*,16,13,20,19,21,20,175
+126512840,Community Academy of Philadelphia CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,52,53,46,47,53,50,56,76,83,122,121,120,118,997
+126512840,Community Academy of Philadelphia CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,*,*,0,*,0,*,0,*,0,0,0,*
+126512840,Community Academy of Philadelphia CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,*
+126512840,Community Academy of Philadelphia CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,*,0,0,0,*,0,*,*,*,*,*,16
+126513470,Delaware Valley CHS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,166,185,172,152,675
+126513470,Delaware Valley CHS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*
+126510011,Discovery Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,111,81,81,82,86,78,78,83,79,0,0,0,0,759
+126510011,Discovery Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+177518712,Eastern University Academy Charter Schoo,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*,*
+177518712,Eastern University Academy Charter Schoo,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,60,54,64,78,50,47,353
+177518712,Eastern University Academy Charter Schoo,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,*,*,*
+126519119,Education Plus Academy Cyber CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,*,0,0,0,0,*
+126519119,Education Plus Academy Cyber CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126519119,Education Plus Academy Cyber CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,23,36,32,29,32,39,30,32,12,0,0,0,0,265
+126519119,Education Plus Academy Cyber CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,14,*,12,12,*,13,*,*,*,0,0,0,0,80
+126519119,Education Plus Academy Cyber CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,0,0,0,0,31
+126519119,Education Plus Academy Cyber CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,10,12,17,*,15,11,14,11,*,0,0,0,0,107
+126513440,Esperanza Academy Charter High School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,*
+126513440,Esperanza Academy Charter High School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*,*,*,13,33
+126513440,Esperanza Academy Charter High School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,50,71,208,168,171,178,893
+126513440,Esperanza Academy Charter High School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
+126511563,Esperanza Cyber CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*,*,*
+126511563,Esperanza Cyber CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,17,10,54,36,18,*,144
+126511563,Esperanza Cyber CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*
+126513100,Eugenio Maria De Hostos CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,*,*,0,0,0,0,0,0,0,0,0,*
+126513100,Eugenio Maria De Hostos CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,0,0,0,0,28
+126513100,Eugenio Maria De Hostos CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,47,41,91,70,38,37,35,33,36,0,0,0,0,428
+126513100,Eugenio Maria De Hostos CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,*,0,*,*,0,*,0,*,0,0,0,0,*
+100510000,First Philadelphia Preparatory Charter S,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,*,*,*,0,0,0,0,*,0,0,0,0,0,*
+100510000,First Philadelphia Preparatory Charter S,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,*,0,0,0,44
+100510000,First Philadelphia Preparatory Charter S,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,63,70,65,76,56,45,33,35,34,54,0,0,0,531
+100510000,First Philadelphia Preparatory Charter S,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,46,38,38,37,45,26,20,20,26,37,0,0,0,333
+100510000,First Philadelphia Preparatory Charter S,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,24,13,18,13,11,11,*,*,*,*,0,0,0,105
+100510000,First Philadelphia Preparatory Charter S,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,*
+100510000,First Philadelphia Preparatory Charter S,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,28,34,33,30,37,19,23,18,32,14,0,0,0,268
+126510021,Folk Arts-Cultural Treasures CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,26,31,28,37,38,42,37,38,36,0,0,0,0,313
+126510021,Folk Arts-Cultural Treasures CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,11,*,13,*,10,*,13,12,16,0,0,0,0,100
+126510021,Folk Arts-Cultural Treasures CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,0,*,*,*,0,0,0,0,0,19
+126510021,Folk Arts-Cultural Treasures CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,0,0,0,0,39
+126510021,Folk Arts-Cultural Treasures CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,*,*,*,*,0,0,0,0,0,0,0,0,10
+126513450,Franklin Towne CHS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,19
+126513450,Franklin Towne CHS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,39,31,17,11,98
+126513450,Franklin Towne CHS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,51,54,38,27,170
+126513450,Franklin Towne CHS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*
+126513450,Franklin Towne CHS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,*
+126513450,Franklin Towne CHS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,283,216,208,193,900
+147513703,Franklin Towne Charter Elementary School,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+147513703,Franklin Towne Charter Elementary School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,0,0,*,*,0,0,*,*,0,0,0,0,10
+147513703,Franklin Towne Charter Elementary School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,*,*,*,*,*,10,*,*,*,0,0,0,0,46
+147513703,Franklin Towne Charter Elementary School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,14,*,*,10,10,*,0,0,0,0,76
+147513703,Franklin Towne Charter Elementary School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+147513703,Franklin Towne Charter Elementary School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,86,96,88,85,89,88,88,88,75,0,0,0,0,783
+126513270,Freire CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,*
+126513270,Freire CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,*,*,*,*
+126513270,Freire CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,107,141,129,75,152,103,97,90,894
+126513270,Freire CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,0,0,*,0,11
+126513270,Freire CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,0,*,*,*,*,32
+126513270,Freire CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*
+126513380,Global Leadership Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,83,85,82,75,82,69,86,78,67,0,0,0,0,707
+126513380,Global Leadership Academy CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,0,0,*,*,*,0,0,0,0,0,0,0,*
+126513380,Global Leadership Academy CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,*,*,0,*,*,0,0,*,0,0,0,0,*
+126513380,Global Leadership Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,*,0,0,0,0,0,0,0,0,0,0,*
+126510005,Green Woods CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,*,*,*,*,0,0,0,0,0,0,0,0,0,*
+126510005,Green Woods CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,0,0,0,0,0,18
+126510005,Green Woods CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,*,11,13,11,15,*,*,*,*,0,0,0,0,70
+126510005,Green Woods CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,0,*,0,0,*,0,0,0,0,14
+126510005,Green Woods CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,62,62,58,61,35,20,22,22,16,0,0,0,0,358
+126513290,Hardy Williams Academy CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,0,0,*
+126513290,Hardy Williams Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,65,77,78,96,95,132,78,111,87,105,109,0,0,1033
+126513290,Hardy Williams Academy CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,*,*,0,0,*,0,0,*
+126513290,Hardy Williams Academy CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,*,0,*,0,0,0,0,0,0,0,*
+126513290,Hardy Williams Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,*
+126513200,Imani Education Circle CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,*,0,0,0,0,*
+126513200,Imani Education Circle CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,50,46,48,58,49,50,43,56,46,0,0,0,0,446
+126513200,Imani Education Circle CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,0,0,0,0,0,0,*
+126513200,Imani Education Circle CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126512980,Imhotep Institute CHS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,119,203,140,162,624
+126513510,Independence CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,*,*,*,0,*,*,*,0,0,0,0,38
+126513510,Independence CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,31,41,45,46,41,49,48,42,52,0,0,0,0,395
+126513510,Independence CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,15,*,14,17,20,19,19,13,0,0,0,0,134
+126513510,Independence CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,21,*,*,*,*,*,*,*,*,0,0,0,0,60
+126513510,Independence CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+126513510,Independence CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,25,28,28,22,25,22,13,14,11,0,0,0,0,188
+133513315,John B Stetson Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*,0,0,0,0,*
+133513315,John B Stetson Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,14,43,38,40,0,0,0,0,135
+133513315,John B Stetson Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,96,157,184,184,0,0,0,0,621
+133513315,John B Stetson Charter School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,*
+133513315,John B Stetson Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,0,0,0,0,*
+126510013,KIPP Philadelphia Charter School,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*,0,0,*,*
+126510013,KIPP Philadelphia Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*
+126510013,KIPP Philadelphia Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,74,73,69,68,0,91,92,83,85,136,126,95,63,1055
+126510013,KIPP Philadelphia Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,0,*,*,*,*,10,*,*,*,72
+126510013,KIPP Philadelphia Charter School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,0,*,0,0,*,0,*,*,*,0,*,15
+126510013,KIPP Philadelphia Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,*,*,0,0,*
+172510793,KIPP West Philadelphia Preparatory Chart,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,*
+172510793,KIPP West Philadelphia Preparatory Chart,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,91,91,88,71,0,0,0,0,341
+172510793,KIPP West Philadelphia Preparatory Chart,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,*
+172510793,KIPP West Philadelphia Preparatory Chart,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,0,0,0,0,*
+126510017,Khepera CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,45,50,53,52,51,51,53,45,49,0,0,0,0,449
+126510017,Khepera CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*,0,*,0,0,0,0,*
+126513110,Laboratory CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,58,60,64,53,49,41,43,38,31,0,0,0,0,437
+126513110,Laboratory CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,0,0,0,0,20
+126513110,Laboratory CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,0,0,0,0,0,0,38
+126513110,Laboratory CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,*,0,0,0,0,*
+126513150,MAST Community Charter School,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+126513150,MAST Community Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,13,12,*,*,*,13,10,10,13,10,10,17,*,136
+126513150,MAST Community Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,*,*,12,11,*,*,*,*,*,12,*,*,*,96
+126513150,MAST Community Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,10,*,*,*,12,11,10,*,*,*,*,*,93
+126513150,MAST Community Charter School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,0,*,0,*,32
+126513150,MAST Community Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,76,75,58,59,63,62,81,80,77,77,88,86,82,964
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,0,0,0,*
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,27,35,33,33,29,27,29,213
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,134,150,136,134,135,120,114,923
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,15,*,*,*,*,0,*,34
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+126513480,Mariana Bracetti Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,26
+126510014,Maritime Academy Charter School,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,0,0,0,0,*
+126510014,Maritime Academy Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,*,*,10,11,*,*,0,*,0,32
+126510014,Maritime Academy Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,20,16,24,33,41,23,20,16,24,217
+126510014,Maritime Academy Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,17,13,29,30,37,16,15,16,13,186
+126510014,Maritime Academy Charter School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,0,*,*,*,*,*,13
+126510014,Maritime Academy Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,16,34,42,69,51,23,43,26,26,330
+126519644,Mastery CS - Cleveland Elementary,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126519644,Mastery CS - Cleveland Elementary,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,98,92,87,90,93,66,72,59,72,0,0,0,0,729
+126519644,Mastery CS - Cleveland Elementary,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,0,0,0,0,32
+126519644,Mastery CS - Cleveland Elementary,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,*,*,0,*,0,*,0,0,0,0,0,0,*
+126519644,Mastery CS - Cleveland Elementary,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,*,0,*,0,0,0,*,0,0,0,0,0,*
+126518795,Mastery CS - Francis D. Pastorius Elemen,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,68,66,44,48,74,51,49,51,54,0,0,0,0,505
+126518795,Mastery CS - Francis D. Pastorius Elemen,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,0,0,0,0,14
+126518795,Mastery CS - Francis D. Pastorius Elemen,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,0,*,*,0,0,0,0,15
+126511748,Mastery CS-Clymer Elementary,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+126511748,Mastery CS-Clymer Elementary,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,63,80,56,51,53,46,48,45,51,0,0,0,0,493
+126511748,Mastery CS-Clymer Elementary,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,*,10,*,*,*,0,0,0,0,56
+126511748,Mastery CS-Clymer Elementary,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,*
+126511748,Mastery CS-Clymer Elementary,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,*,*,0,*,*,0,*,0,0,0,0,*
+126513734,Mastery CS-Gratz Campus,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,*
+126513734,Mastery CS-Gratz Campus,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,47,53,331,356,301,191,1279
+126513734,Mastery CS-Gratz Campus,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,13,*,*,40
+126513734,Mastery CS-Gratz Campus,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,12
+126513734,Mastery CS-Gratz Campus,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,0,*
+126516457,Mastery CS-Harrity Campus,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+126516457,Mastery CS-Harrity Campus,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,97,97,97,102,101,103,77,96,75,0,0,0,0,845
+126516457,Mastery CS-Harrity Campus,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,*,0,*,0,0,0,*,*,0,0,0,0,*
+126516457,Mastery CS-Harrity Campus,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126516457,Mastery CS-Harrity Campus,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,0,*,0,0,0,0,0,0,0,0,0,*
+126519433,Mastery CS-Mann Campus,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,*,*,0,*,0,0,0,0,0,0,0,12
+126519433,Mastery CS-Mann Campus,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,67,71,69,74,71,62,70,0,0,0,0,0,0,484
+126519433,Mastery CS-Mann Campus,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,10,*,*,*,*,0,0,0,0,0,0,39
+126519433,Mastery CS-Mann Campus,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,0,0,0,0,0,0,14
+126519433,Mastery CS-Mann Campus,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+126519433,Mastery CS-Mann Campus,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,0,*
+151514721,Mastery CS-Pickett Campus,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,*
+151514721,Mastery CS-Pickett Campus,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,110,111,133,138,118,113,96,819
+151514721,Mastery CS-Pickett Campus,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*,*,*,0,*
+151514721,Mastery CS-Pickett Campus,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+126510022,Mastery CS-Shoemaker Campus,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,*
+126510022,Mastery CS-Shoemaker Campus,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*
+126510022,Mastery CS-Shoemaker Campus,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,131,127,126,133,97,108,722
+126510022,Mastery CS-Shoemaker Campus,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*,0,0,*
+126510022,Mastery CS-Shoemaker Campus,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,*
+126517286,Mastery CS-Smedley Campus,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,*,*,0,0,*,0,0,0,0,0,0,*
+126517286,Mastery CS-Smedley Campus,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,*,*,0,*,0,*,0,0,0,0,0,0,*
+126517286,Mastery CS-Smedley Campus,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,81,71,78,66,70,85,67,0,0,0,0,0,0,518
+126517286,Mastery CS-Smedley Campus,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,29,32,30,23,15,14,21,0,0,0,0,0,0,164
+126517286,Mastery CS-Smedley Campus,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,*,*,23,*,*,*,0,0,0,0,0,0,42
+126517286,Mastery CS-Smedley Campus,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,*,0,*,*,*,*,0,0,0,0,0,0,19
+126510023,Mastery CS-Thomas Campus,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*
+126510023,Mastery CS-Thomas Campus,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,21,10,11,10,*,15,*,20,29,14,17,26,12,195
+126510023,Mastery CS-Thomas Campus,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,39,28,21,19,26,22,33,59,53,75,80,51,52,558
+126510023,Mastery CS-Thomas Campus,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,15,*,*,*,*,*,*,15,*,*,11,*,*,102
+126510023,Mastery CS-Thomas Campus,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,*,*,*,0,42
+126510023,Mastery CS-Thomas Campus,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,45,30,11,18,10,10,*,19,16,*,15,18,16,225
+126510002,Mastery Charter High School,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
+126510002,Mastery Charter High School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*,*
+126510002,Mastery Charter High School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,101,99,82,78,77,74,511
+126510002,Mastery Charter High School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,30
+126510002,Mastery Charter High School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,*
+126510002,Mastery Charter High School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*,0,*,13
+126513230,Math Civics and Sciences CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,*
+126513230,Math Civics and Sciences CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,83,83,80,82,83,83,75,79,63,74,84,71,940
+126513230,Math Civics and Sciences CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,0,*,*,*,*,20
+126513230,Math Civics and Sciences CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,*,0,0,0,0,0,*
+126513230,Math Civics and Sciences CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*,0,0,0,0,*
+126519392,Memphis Street Academy CS @ JP Jones,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,*
+126519392,Memphis Street Academy CS @ JP Jones,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,*,0,0,0,0,*
+126519392,Memphis Street Academy CS @ JP Jones,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,64,82,59,71,0,0,0,0,276
+126519392,Memphis Street Academy CS @ JP Jones,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,112,128,110,109,0,0,0,0,459
+126519392,Memphis Street Academy CS @ JP Jones,CS,Philadelphia,Multi-Racial,,*,0,0,0,0,0,0,0,0,0,0,0,0,*,13,19,13,0,0,0,0,46
+126519392,Memphis Street Academy CS @ JP Jones,CS,Philadelphia,White,,*,0,0,0,0,0,0,0,0,0,0,0,0,*,21,26,19,0,0,0,0,73
+126513000,Multi-Cultural Academy CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,*
+126513000,Multi-Cultural Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,86,49,64,39,238
+126513000,Multi-Cultural Academy CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*
+126513000,Multi-Cultural Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
+126513420,New Foundations CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,*,0,0,0,*,*,0,*,*,0,0,0,10
+126513420,New Foundations CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,0,*,*,*,*,*,*,*,*,*,*,51
+126513420,New Foundations CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,*,*,17,*,*,*,12,*,15,26,35,15,20,190
+126513420,New Foundations CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,*,10,*,13,*,41,30,21,17,172
+126513420,New Foundations CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,0,*,0,*,0,0,*,*,0,0,10
+126513420,New Foundations CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,*,0,0,*
+126513420,New Foundations CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,46,51,55,58,52,55,60,52,54,106,92,68,63,812
+126510018,New Media Technology CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,*
+126510018,New Media Technology CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,23,48,47,102,71,96,64,451
+126510018,New Media Technology CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*,0,*
+126510018,New Media Technology CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*
+126510019,Northwood Academy CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,*,0,0,0,*,0,0,0,0,0,0,0,0,*
+126510019,Northwood Academy CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,*,*,*,*,0,*,*,*,0,0,0,0,17
+126510019,Northwood Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,57,82,55,53,61,56,52,56,48,0,0,0,0,520
+126510019,Northwood Academy CS,CS,Philadelphia,Hispanic,,*,0,0,0,0,0,0,0,21,*,22,31,15,24,21,19,23,0,0,0,0,184
+126510019,Northwood Academy CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,0,0,*,*,*,*,*,*,0,0,0,0,18
+126510019,Northwood Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,*,*,*,*,*,*,*,0,0,0,0,38
+126513452,Olney Charter High School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,19,15,19,11,64
+126513452,Olney Charter High School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,180,202,115,145,642
+126513452,Olney Charter High School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,315,322,213,152,1002
+126513452,Olney Charter High School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,11,*,*,27
+173515368,Pan American Academy CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,0,0,0,0,0,0,*
+173515368,Pan American Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,*,13,*,*,*,*,*,*,*,0,0,0,0,66
+173515368,Pan American Academy CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,88,111,97,64,65,51,72,63,45,0,0,0,0,656
+173515368,Pan American Academy CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,0,0,0,0,*,0,0,0,0,11
+173515368,Pan American Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126510004,People for People CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+126510004,People for People CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,*
+126510004,People for People CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,77,67,78,64,43,54,46,42,37,0,0,0,0,508
+126510004,People for People CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,*,0,*,0,*,0,0,0,0,12
+126510004,People for People CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,*,0,0,0,0,*
+126510004,People for People CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126513280,Philadelphia Academy CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+126513280,Philadelphia Academy CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,*,*,*,34
+126513280,Philadelphia Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,10,10,10,*,73
+126513280,Philadelphia Academy CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,*,*,*,10,64
+126513280,Philadelphia Academy CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,0,0,0,*,*,0,0,*,0,*,0,*,10
+126513280,Philadelphia Academy CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126513280,Philadelphia Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,57,57,59,60,58,54,81,86,82,109,98,102,94,997
+126515001,Philadelphia City SD,SD,Philadelphia,American Indian / Alaskan Native,,0,0,15,0,0,0,0,0,55,39,19,26,21,14,15,*,*,20,16,18,24,298
+126515001,Philadelphia City SD,SD,Philadelphia,Asian,,0,0,154,0,0,0,0,0,803,845,823,834,774,788,779,745,718,883,890,885,943,10864
+126515001,Philadelphia City SD,SD,Philadelphia,Black or African American,,0,0,1566,0,0,0,0,0,5660,6335,5873,5640,5733,5464,5105,4917,5008,6005,5678,5482,5098,73564
+126515001,Philadelphia City SD,SD,Philadelphia,Hispanic,,0,0,327,0,0,0,0,0,2367,2619,2436,2349,2314,2085,1670,1649,1590,2044,1790,1489,1294,26023
+126515001,Philadelphia City SD,SD,Philadelphia,Multi-Racial,,0,0,142,0,0,0,0,0,1257,1320,986,895,778,486,309,248,217,279,190,174,120,7401
+126515001,Philadelphia City SD,SD,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,*,0,0,0,0,0,*,*,*,0,*,*,0,*,*,*,0,0,0,29
+126515001,Philadelphia City SD,SD,Philadelphia,White,,0,0,172,0,0,0,0,0,1715,1729,1651,1618,1523,1549,1372,1429,1377,1482,1393,1259,1226,19495
+126510009,Philadelphia Electrical & Tech CHS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,10,*,*,*,28
+126510009,Philadelphia Electrical & Tech CHS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,76,109,95,73,353
+126510009,Philadelphia Electrical & Tech CHS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,24,*,*,*,47
+126510009,Philadelphia Electrical & Tech CHS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,10
+126510009,Philadelphia Electrical & Tech CHS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,*
+126510009,Philadelphia Electrical & Tech CHS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,36,32,29,39,136
+126512850,Philadelphia Harambee Inst CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,80,83,49,55,56,54,54,62,52,0,0,0,0,545
+126510016,Philadelphia Montessori CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+126510016,Philadelphia Montessori CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,24,23,27,22,23,26,21,0,0,0,0,0,0,166
+126510016,Philadelphia Montessori CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+126510016,Philadelphia Montessori CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,0,0,*,*,0,0,0,0,0,0,0,*
+126510016,Philadelphia Montessori CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,*,*,*,*,0,0,0,0,0,0,0,0,*
+126513400,Philadelphia Performing Arts CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,*,0,*,0,*,0,0,0,0,0,0,0,0,*
+126513400,Philadelphia Performing Arts CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,12,12,10,*,*,*,*,*,*,0,0,0,74
+126513400,Philadelphia Performing Arts CS,CS,Philadelphia,Black or African American,,*,0,0,0,0,0,0,0,*,23,11,17,13,24,13,12,14,113,0,0,0,247
+126513400,Philadelphia Performing Arts CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,*,*,29,0,0,0,68
+126513400,Philadelphia Performing Arts CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,10,13,14,*,*,10,*,*,*,*,0,0,0,81
+126513400,Philadelphia Performing Arts CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,113,144,108,104,104,83,79,66,58,83,0,0,0,942
+182514568,Planet Abacus CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*,0,0,0,0,0,*
+182514568,Planet Abacus CS,CS,Philadelphia,Black or African American,,*,0,0,0,0,0,0,0,23,20,22,20,14,13,10,*,10,0,0,0,0,141
+182514568,Planet Abacus CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,16,14,13,*,15,10,11,*,*,0,0,0,0,103
+182514568,Planet Abacus CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,11,11,14,*,*,*,*,*,0,0,0,0,55
+182514568,Planet Abacus CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,30,26,23,22,20,24,16,13,14,0,0,0,0,188
+126512960,Preparatory CS of Mathematics Science,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,22,32,22,23,99
+126512960,Preparatory CS of Mathematics Science,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,69,62,67,50,248
+126512960,Preparatory CS of Mathematics Science,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,24
+126512960,Preparatory CS of Mathematics Science,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,14
+126512960,Preparatory CS of Mathematics Science,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,44,54,53,40,191
+126510008,Richard Allen Preparatory CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*,0,0,0,14
+126510008,Richard Allen Preparatory CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,91,100,111,111,86,0,0,0,499
+126510008,Richard Allen Preparatory CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,0,0,0,0,*
+126510008,Richard Allen Preparatory CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*
+126510008,Richard Allen Preparatory CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,*,0,0,0,*
+126510001,Russell Byers CS,CS,Philadelphia,Asian,,0,0,0,0,0,*,0,0,*,*,*,*,*,0,0,0,0,0,0,0,0,11
+126510001,Russell Byers CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,38,0,0,43,58,43,64,57,44,49,0,0,0,0,0,0,396
+126510001,Russell Byers CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,0,*,*,*,0,0,0,0,0,0,21
+126510001,Russell Byers CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,0,0,0,*
+126510001,Russell Byers CS,CS,Philadelphia,White,,0,0,0,0,0,13,0,0,*,11,*,*,10,*,0,0,0,0,0,0,0,56
+114514135,Sankofa Freedom Academy Charter School,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,*
+114514135,Sankofa Freedom Academy Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,42,55,49,53,46,51,47,49,45,48,43,43,48,619
+114514135,Sankofa Freedom Academy Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,0,0,*,*,*,*,*,*,0,*,*,*,24
+114514135,Sankofa Freedom Academy Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,*
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,*,*,*,0,0,*,0,0,0,0,0,*
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,56,55,54,53,53,52,51,53,52,0,0,0,0,479
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,*
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+108515107,Southwest Leadership Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,*
+192518422,Tacony Academy Charter School,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,*
+192518422,Tacony Academy Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,0,0,*,*,0,0,26
+192518422,Tacony Academy Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,24,16,25,22,21,22,31,29,27,48,38,39,35,377
+192518422,Tacony Academy Charter School,CS,Philadelphia,Hispanic,,*,0,0,0,0,0,0,0,13,10,*,14,14,29,14,23,18,31,33,25,17,249
+192518422,Tacony Academy Charter School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,13,*,*,*,*,0,*,*,*,*,*,*,64
+192518422,Tacony Academy Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,23,34,36,33,35,19,29,20,25,27,24,33,36,374
+126515691,The Philadelphia CS for Arts and Science,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+126515691,The Philadelphia CS for Arts and Science,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,76,86,71,64,79,73,75,66,71,0,0,0,0,661
+126515691,The Philadelphia CS for Arts and Science,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,24,22,36,33,35,33,33,21,18,0,0,0,0,255
+126515691,The Philadelphia CS for Arts and Science,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,0,*,0,0,0,0,17
+126515691,The Philadelphia CS for Arts and Science,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,*
+126515691,The Philadelphia CS for Arts and Science,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,10,14,*,*,*,*,*,*,0,0,0,0,51
+171510293,Truebright Science Academy CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,17,28,52,33,29,39,198
+171510293,Truebright Science Academy CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,25
+171510293,Truebright Science Academy CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*
+171510293,Truebright Science Academy CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,14
+126512674,Universal Alcorn CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+126512674,Universal Alcorn CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*,0,0,0,0,0,*
+126512674,Universal Alcorn CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,52,68,72,62,59,51,43,50,43,0,0,0,0,500
+126512674,Universal Alcorn CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,0,0,0,0,0,0,*
+126512674,Universal Alcorn CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*,0,0,0,0,*
+126519434,Universal Audenried Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,0,*
+126519434,Universal Audenried Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,183,181,175,94,633
+126519434,Universal Audenried Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*,*
+126519434,Universal Audenried Charter School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*
+126519434,Universal Audenried Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,*
+168513758,Universal Bluford Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,*,0,*,0,*,0,0,0,0,0,0,0,*
+168513758,Universal Bluford Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,63,73,65,71,73,72,67,0,0,0,0,0,0,484
+168513758,Universal Bluford Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+126517442,Universal Creighton Charter School,CS,Philadelphia,Asian,,*,0,0,0,0,0,0,0,*,17,11,14,11,15,15,15,12,0,0,0,0,119
+126517442,Universal Creighton Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,56,61,37,45,45,51,31,33,42,0,0,0,0,401
+126517442,Universal Creighton Charter School,CS,Philadelphia,Hispanic,,*,0,0,0,0,0,0,0,*,15,24,24,19,20,27,19,20,0,0,0,0,170
+126517442,Universal Creighton Charter School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,*,*,0,*,*,*,0,0,0,0,0,*
+126517442,Universal Creighton Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,*,*,0,*,0,*,0,0,0,0,0,*
+103519376,Universal Daroff Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,88,91,79,72,82,66,63,61,56,0,0,0,0,658
+103519376,Universal Daroff Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,*,0,0,0,0,*
+126513210,Universal Institute CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,*,*,*,0,*,0,0,0,0,0,0,0,0,10
+126513210,Universal Institute CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,73,134,64,66,63,59,64,50,57,0,0,0,0,630
+126513210,Universal Institute CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,*,*,*,0,0,0,0,0,0,0,0,0,0,*
+126513210,Universal Institute CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+126513415,Universal Vare Charter School,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,17,16,13,11,0,0,0,0,57
+126513415,Universal Vare Charter School,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,51,79,68,75,0,0,0,0,273
+126513415,Universal Vare Charter School,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,0,0,0,0,18
+126513415,Universal Vare Charter School,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,*,0,0,0,0,*
+126513415,Universal Vare Charter School,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,*
+126513415,Universal Vare Charter School,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,11,*,*,0,0,0,0,19
+126513220,Wakisha CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,71,113,134,0,0,0,0,318
+126513220,Wakisha CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,*
+126513490,Walter D Palmer Leadership Learning Part,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,0,0,0,0,0,0,*
+126513490,Walter D Palmer Leadership Learning Part,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,134,111,109,119,109,80,67,65,67,85,57,58,50,1111
+126513490,Walter D Palmer Leadership Learning Part,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,10,14,*,*,*,13,11,11,11,18,*,*,*,127
+126513490,Walter D Palmer Leadership Learning Part,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+126513490,Walter D Palmer Leadership Learning Part,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,*,*,*,0,*,0,0,11
+126513020,West Oak Lane CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126513020,West Oak Lane CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,132,131,130,132,131,106,82,59,54,0,0,0,0,957
+126513020,West Oak Lane CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,*
+126510006,West Phila. Achievement CES,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,*,0,0,*,0,0,0,0,0,0,0,*
+126510006,West Phila. Achievement CES,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,138,129,113,107,100,70,0,0,0,0,0,0,0,657
+126510006,West Phila. Achievement CES,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,*,*,0,*,0,0,0,0,0,0,0,*
+126510006,West Phila. Achievement CES,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126510006,West Phila. Achievement CES,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126510007,Wissahickon CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,42,39,41,45,48,47,48,51,49,0,0,0,0,410
+126510007,Wissahickon CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,*,*,0,*,*,*,*,0,0,0,0,0,*
+126510007,Wissahickon CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,*,*,*,*,*,*,0,*,0,0,0,0,14
+126510007,Wissahickon CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126510007,Wissahickon CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,*,*,*,*,*,*,0,0,0,0,0,0,26
+126512860,World Communications CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,0,0,0,*
+126512860,World Communications CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,*,*,*,*
+126512860,World Communications CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,32,64,78,142,102,98,75,591
+126512860,World Communications CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,*,*,*,0,17
+126512860,World Communications CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,*
+126512860,World Communications CS,CS,Philadelphia,Native Hawaiian or other Pacific Islander(not hispanic),,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,*,*
+126512860,World Communications CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
+126513250,Young Scholars CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+126513250,Young Scholars CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,81,78,78,0,0,0,0,237
+126513250,Young Scholars CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,0,*
+126513250,Young Scholars CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,*,0,0,0,0,*
+126513250,Young Scholars CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,0,0,*
+126518547,Young Scholars Frederick Douglas Charter,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,*
+126518547,Young Scholars Frederick Douglas Charter,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,74,94,96,93,80,85,86,68,74,0,0,0,0,750
+126518547,Young Scholars Frederick Douglas Charter,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,*,*,0,0,*,0,0,0,0,0,*
+126518547,Young Scholars Frederick Douglas Charter,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,*
+126514720,Young Scholars Kenderton CS,CS,Philadelphia,American Indian / Alaskan Native,,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,*
+126514720,Young Scholars Kenderton CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,*
+126514720,Young Scholars Kenderton CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,58,61,59,55,48,48,51,29,27,0,0,0,0,436
+126514720,Young Scholars Kenderton CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,*,*,0,*,0,0,0,0,0,0,0,*
+126514720,Young Scholars Kenderton CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,*,0,*,0,*,0,*,0,0,0,0,0,0,*
+126514720,Young Scholars Kenderton CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,*,0,0,0,0,0,0,0,0,0,0,0,0,*
+126512870,Youth Build Phila CS,CS,Philadelphia,Asian,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
+126512870,Youth Build Phila CS,CS,Philadelphia,Black or African American,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,227,227
+126512870,Youth Build Phila CS,CS,Philadelphia,Hispanic,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,16,16
+126512870,Youth Build Phila CS,CS,Philadelphia,Multi-Racial,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
+126512870,Youth Build Phila CS,CS,Philadelphia,White,,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,*,*
